@@ -1,0 +1,1800 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A divine tragedie lately acted, or, A collection of sundrie memorable examples of Gods judgements upon Sabbath-breakers, and other like libertines, in their unlawfull sports, hapning within the realme of England, in the compasse onely of few yeers last past, since the book was published, worthy to be known and considered of all men, especially such, who are guilty of the sin or archpatrons thereof. / By that worthy divine Mr. Henry Burton.</title>
+            <author>Burton, Henry, 1578-1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78019</idno>
+            <idno type="STC">Wing B6161</idno>
+            <idno type="STC">Thomason E176_1</idno>
+            <idno type="STC">ESTC R18494</idno>
+            <idno type="EEBO-CITATION">99860413</idno>
+            <idno type="PROQUEST">99860413</idno>
+            <idno type="VID">112533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112533)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E176[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A divine tragedie lately acted, or, A collection of sundrie memorable examples of Gods judgements upon Sabbath-breakers, and other like libertines, in their unlawfull sports, hapning within the realme of England, in the compasse onely of few yeers last past, since the book was published, worthy to be known and considered of all men, especially such, who are guilty of the sin or archpatrons thereof. / By that worthy divine Mr. Henry Burton.</title>
+                  <author>Burton, Henry, 1578-1648.</author>
+                  <author>Prynne, William, 1600-1669, attributed name.</author>
+               </titleStmt>
+               <extent>[10], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [for John Wright junior, and for Tho. Bates, and are to be sold at their shops in the Old Baylie],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the yeer 1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Erroneously attributed to William Prynne.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Place of publication, booksellers' names and location, and actual date of publication from colophon.</note>
+                  <note>Thomason copy has significant show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment of God --  Early works to 1800.</term>
+               <term>Providence and government of God --  Early works to 1800.</term>
+               <term>Sunday --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112533:1"/>
+            <pb facs="tcp:112533:1" rendition="simple:additions"/>
+            <p>A DIVINE TRAGEDIE
+LATELY ACTED,
+<hi>OR,</hi>
+A Collection of ſundrie memorable ex<g ref="char:EOLhyphen"/>amples
+of Gods judgements upon Sabbath-breakers,
+and other like Libertines, in their unlawfull Sports, hap<g ref="char:EOLhyphen"/>ning
+within the Realme of <hi>England,</hi> in the compaſſe one<g ref="char:EOLhyphen"/>ly
+of few yeers laſt paſt, ſince the Book was publiſhed, worthy
+to be known and conſidered of all men, eſpecially ſuch,
+who are guilty of the ſin or Arch<g ref="char:EOLhyphen"/>patrons
+thereof.</p>
+            <p>By that worthy Divine M<hi rend="sup">r</hi>. <hi>Henry Burton.</hi>
+            </p>
+            <figure/>
+            <p>Printed in the yeer 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <gap reason="missing" extent="2+ pages">
+               <desc>〈2… pages missing〉</desc>
+            </gap>
+            <pb facs="tcp:112533:2"/>
+            <p>many thouſand yeers paſt, <hi>yet they remain ſtill freſh upon
+record,</hi> as done but yeſterday, even <hi>for this very end, that
+they might be examples unto us, not to luſt after evill things
+as they luſted,</hi> nor to trace the footſteps of their ſinfull
+wayes, leſt we ſhould incur the ſelf ſame <hi>exemplarie pu<g ref="char:EOLhyphen"/>niſhments</hi>
+as they ſuſtained. 1. <hi>Cor.</hi> 10. 5. to 12. And as
+God himſelf, ſo holy men of God in all ages, following
+his example, have carefully ob<gap reason="illegible: blotted" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed, and regiſtred to
+poſterity the ſpeciall moſt remarkable judgements of
+God upon obſtinate ſins and ſinners of all ſorts, (with
+which not onely Eccleſiaſtical, but even prophane ſtories
+are fully fraught) happened in the ages, and the places
+wherein they lived: many whereof <hi>Mr. Jo. Fox in his Acts
+and Monuments,</hi> near the end. <hi>Mr. Raynolds</hi> in his <hi>Treatiſe
+concerning the miraculous diſcovery and puniſhments of
+murthers and Murtherers.</hi> D<hi rend="sup">r</hi>. <hi>Thomas Beard in his Theatre
+of Gods, judgements,</hi> with ſundry others, have collected
+and digeſted into intire Tractates, the very reading and
+ſerious peruſall whereof, would no doubt daunt the moſt
+profeſſed Atheiſt, and reclaim the moſt incorrigible ſin<g ref="char:EOLhyphen"/>ner
+I therefore deſiring to tread in their pious footſteps,
+having received from good intelligence many memo<g ref="char:EOLhyphen"/>rable
+preſidents of Gods avenging juſtice upon Sabbath-breakers;
+and the prophaners of Sacred times devoted to
+his ſervice, hapning within the compaſſe of our little
+Iſland within two yeers ſpace, (ſince the publication of
+the <hi>Declaration for Sports and Paſtimes after Evening
+Prayer on the Lords day, in Pariſh Churches by divers</hi>
+               <note n="a" place="margin">Nullam habet ſpem ſa<g ref="char:EOLhyphen"/>lutis aeger quam ad in<g ref="char:EOLhyphen"/>temperantiam Meditus hor<g ref="char:EOLhyphen"/>tatur. Senec.</note> 
+               <hi>Miniſters</hi> hath ſet open the flood-gates to this pre<g ref="char:EOLhyphen"/>ſumptuous
+ſin of Sabbath-breaking; thought it a part of
+my bounden duty to preſerve and propagate their me<g ref="char:EOLhyphen"/>morie
+both for the honour of Gods truth and juſtice; the
+<pb facs="tcp:112533:2"/>
+vindication of the intire ſanctification of his ſacred day,
+(which he hath viſibly pleaded for from heaven, ſince
+men have been audaciouſly prophane,<note n="b" place="margin">See the Doctrine of the Sabbath; The Hiſtory of the Sab<g ref="char:EOLhyphen"/>bath: the Trea<g ref="char:EOLhyphen"/>tiſe of the Sab<g ref="char:EOLhyphen"/>bath-day, and Diſcourſe of the Sabbath lately printed: which though they con<g ref="char:EOLhyphen"/>demne the very name of Sabbath, as Iewiſh, yet they are all characteriſed with that name and title.</note> as to plead, and I
+would I could not ſay to <hi>write</hi> and preach againſt it
+upon earth) the clearing of thoſe Miniſters innocencie,
+who now unjuſtly ſuffer through the malice of ungodly
+perſecuters, and raging Prelates, for refuſing to joyne
+with others in ſpurring on the people to the greedy pur<g ref="char:EOLhyphen"/>ſuit
+of this crying dangerous ſin, to the ruin of their ſouls,
+their bodies, and ſhame of our Religion, and the moni<g ref="char:EOLhyphen"/>tion
+of this preſent, and all future ages, to beware of this
+ſo dangerous a tranſgreſſion. How God hath puniſhed
+this very ſin in former ages, in ſuch who have either by
+dancing, Sports, Paſtimes, or unneceſſarie Labours and
+travels prophaned his Sacred day, I mean not to record:
+he that liſteth may read ſtore of ſuch examples regiſt<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed
+to his hands in the <hi>Councell of Paris, under Lewis and Lo<g ref="char:EOLhyphen"/>tharius,
+anno 829. lib. 1. ca.</hi> 50. (which relates in generall;
+<hi>That many preſent in this Councell were eye-witneſſes, and
+others of them had it by relation, that ſome men upon the
+Lords day being about their husbandry, have been ſlain with
+Thunder, ſome puniſhed with the contraction of their joynts
+and ſins, ſome even with viſible fire have had their bodies and
+bones burnt up in a moment, and ſuddenly reſolved into aſhes,
+and that many other terrible examples of like nature hath
+happened and did fall out daily. By</hi> which it was declared,
+that God is much offended with the diſhonour of ſo
+great a Day;) <hi>Petrus Pleſſenſis in Latinia major Sermo</hi>
+20. <hi>In Mathew Paris, Hiſtoria Major Anno 1200. p.</hi> 194. in
+<hi>Roger Hovenden, anno 1200. p.</hi> 122. In <hi>Mathew Weſtmin<g ref="char:EOLhyphen"/>ſter.
+Flores Hiſtoriarum: Ann.</hi> 1200. In <hi>Vincentius Belva<g ref="char:EOLhyphen"/>cenſis,
+Speculum Morale li. 3. pr 9. Diſtinctio</hi> 9. of dances,
+<pb facs="tcp:112533:3"/>
+In the <hi>flower of the Commandments,</hi> printed in the begin<g ref="char:EOLhyphen"/>ning
+of King <hi>Hen. 8. fol.</hi> 159. to 163. In <hi>Henricus Gran.
+Diſtinct. 9. Exemp.</hi> 51. in the Magdeburge <hi>Centuries Cen<g ref="char:EOLhyphen"/>turie.</hi>
+12. <hi>ca</hi> 6. In D<hi rend="sup">r</hi>. <hi>Bownde</hi> his doctrine of the Sabbath,
+Edition 2. <hi>p.</hi> 252. to 263. the firſt book: in M<hi rend="sup">r</hi>. <hi>John Field</hi>
+his declaration of Gods judgements at Paris garden: in
+M<hi rend="sup">r</hi>. <hi>Philip Stubs</hi> his Anatomie of abuſes, <hi>p.</hi> 185. in the
+<hi>Practice of Pietie:</hi> 429. to 434. and D<hi rend="sup">r</hi>. <hi>Beard</hi> his Theatre
+of Gods Judgements. All which have regiſtred ſundrie
+notable judgements of God upon ſundrie Sabbath-brea<g ref="char:EOLhyphen"/>kers
+(which have preſumed to dance, work, or travell, on
+the Lords holy day) of purpoſe to ſhew the danger of
+prophaning holy times, and to deter men from this com<g ref="char:EOLhyphen"/>mon
+ſin, for which ſo many have ſmarted from heaven in
+an exemplarie manner. I ſhall therefore confine my ſelf
+onely to ſuch domeſtick examples, as have fallen out in
+ſundrie corners of this our Realm within theſe two yeers,
+of purpoſe to refute the<note n="*" place="margin">2 Pet. 2. 16.</note> 
+               <hi>madneſſe of thoſe Prophets,</hi> who
+in the Preſſe and Pulpit; and the prophaneneſſe of thoſe
+people, who in their dancing-greens, and may-pole ar<g ref="char:EOLhyphen"/>bors,
+have been ſo audacious, as to affirm, <hi>the Prophana<g ref="char:EOLhyphen"/>tion
+of the Lords day by Maygames, Dances, Maypoles, Wakes,
+and common Labour out of time of Divine Service, (eſpeci<g ref="char:EOLhyphen"/>ally
+after Evening Prayer</hi>) to be no ſin at all againſt the
+fourth <hi>Commandement, or any other Law of God or man; but</hi>
+               <note n="c" place="margin">See the Hiſtory, Trea<g ref="char:EOLhyphen"/>tiſe, Diſcourſe, and Doctrine of the Sab<g ref="char:EOLhyphen"/>bath accor<g ref="char:EOLhyphen"/>dingly, and Sunday no Sabbath.</note> 
+               <hi>neceſſary and commendable point of true Chriſtian Liber<g ref="char:EOLhyphen"/>tie</hi>
+(they ſhould have ſaid of carnall and heatheniſh licen<g ref="char:EOLhyphen"/>tiouſneſſe
+rather) <hi>from which the people muſt not be debar<g ref="char:EOLhyphen"/>red;</hi>
+But let theſe blinde guides, and Libertines learn
+from theſe examples, to correct this their erronious
+judgement, and practiſe; <hi>for fear the Lord make them the
+next examples in this kinde, to teach others to keep his Sab<g ref="char:EOLhyphen"/>baths
+<pb facs="tcp:112533:3"/>
+better,</hi> and more intirely for the future. And if theſe
+tragicall ſpectacles of Divine juſtice will not perſwade
+them, that ſuch prophaning of the Lords moſt ſacred day
+is a ſin, yea and a crying ſin too, as all our writers (yea
+and our Prelates generally, till now of late have unani<g ref="char:EOLhyphen"/>mouſly
+defined, and the whole <hi>State in Parliament in</hi>
+               <note n="d" place="margin">1. Car. c 1. 3 Car. c. 1.</note> 
+               <hi>two late famous Statutes</hi> and<note n="e" place="margin">1. 27. H. 6. 5. 5. &amp; 6. E. 6. c. 3.</note> 
+               <hi>two more ancient Acts,</hi>
+to omit our<note n="f" place="margin">Of the Time and Place of Prayer. part. 1. Of Diſobe<g ref="char:EOLhyphen"/>dience and un<g ref="char:EOLhyphen"/>lawfull Rebel<g ref="char:EOLhyphen"/>lion. <hi>part. 3. p.</hi> 292. 293.</note> 
+               <hi>Homilies,</hi>
+               <note n="g" place="margin">The Praier after the 4. &amp; 10 Com<g ref="char:EOLhyphen"/>mandment.</note> 
+               <hi>Common Prayer Book,</hi>
+               <note n="h" place="margin">Canon. 13. 163.</note> 
+               <hi>Ca<g ref="char:EOLhyphen"/>nons,</hi>
+               <note n="i" place="margin">Article 35. of Ireland 56.</note> 
+               <hi>Articles, and</hi>
+               <note n="k" place="margin">Queen Eliz. In un<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. 20.</note> 
+               <hi>Injunctions,</hi> which conclude the
+ſame) I ſay have adjudged ſuch a preſumptuous tranſ<g ref="char:EOLhyphen"/>greſſion,
+as will draw down Gods vengeance on mens
+heads; Our late Soveraign King <hi>James</hi> of happy memo<g ref="char:EOLhyphen"/>ry,
+and our preſent gracious Soveraign Lord K. <hi>Charles</hi>
+with all the <hi>Prelates, Clergy, and people of the Realm in the
+first yeers of both their Reigns,</hi> in the ſeverall Books of
+<hi>Common Prayer, and order for the publike faſts ſet out by their
+royal authorities, and the Biſhops advice, with the conſent and
+hearty deſire of the whole Realm for the abating averſion, and
+ceaſing of thoſe dreadfull Plagues which then</hi> ſwallowed up
+many thouſands <hi>of people every week</hi> will inform them;
+That among other ſins, <hi>The prophaning of the Sabbath</hi> (ſo
+<hi>King James his Book</hi> ſtyles the Sunday) and <hi>not keeping
+holy the Lords day, was one chief cauſe why thoſe two great
+terrible Plagues</hi> (and why not alſo this great Plague which
+is now begun and ſpread much abroad) <hi>brake in upon us;</hi>
+to the deſtruction not of ſome few particular perſons,
+but of many thouſands, and the puniſhment of the whole
+Realme, and Nation in generall. And becauſe ſome of
+theſe men plead moſt falſly, <hi>that the chiefeſt writers of the
+reformed Churches are of their opinion,</hi>
+               <note n="l" place="margin">Homil. 162. in Matth. fol. 308. Hom. 28. in Mar. f. 35. Hom. 56. in Lu. f. 141. Hom. 36. in Joan. f. 77. Hom. 88. in Act.</note> 
+               <hi>M<hi rend="sup">r</hi>. Kodolphus
+Gualter, and</hi>
+               <note n="m" place="margin">Comment. in Matth. 12. &amp; 14. p. 376. 423. in Joa; 7. f. 293.</note> 
+               <hi>Wolfgangus Muſculus</hi> (men of principall
+note and learning among them) will both aſſure them,
+<pb facs="tcp:112533:4"/>
+that the Lords day is not onely wholly, onely, and intirely to
+be ſpent in religious publike and private duties of Gods wor<g ref="char:EOLhyphen"/>ſhip,
+and that dancing, ſports, and paſtimes, on it, are ſinfull,
+and execrable; (the conſtant judgement of all forraigne
+Proteſtant Divines whatſoever, as I am able to prove;
+what ever<note n="n" place="margin">Hiſtory of the Sabbath. <gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 1. 2. <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6. <hi>
+                     <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 9 10.</note> 
+               <hi>D<hi rend="sup">r</hi>. Helyn</hi> or<note n="o" place="margin">
+                  <hi>D. Pook<g ref="char:EOLhyphen"/>linton,</hi> Sun<g ref="char:EOLhyphen"/>day, no Sab<g ref="char:EOLhyphen"/>bath, <hi>p.</hi> 8.</note> others have raſhly aver<g ref="char:EOLhyphen"/>red
+to the contrary; But likewiſe further inform them;
+<hi>That God may juſtly revenge the great contempt of his Deity
+in prophaning his Sacred day with dances and ſuch like Re<g ref="char:EOLhyphen"/>vels
+and diſorders: With horrible puniſhments, neither is it
+to be doubted</hi> (ſaith M<hi rend="sup">r</hi>. <hi>Gualther) that the prophanation of
+the Lords day, is not the leaſt cauſe of the evils and calamities
+of our age.</hi> Yea their own moſt illuſtrious Cardinall <hi>Ro<g ref="char:EOLhyphen"/>bert
+Bellarmine</hi> (whom they almoſt deifie when they do
+but name him:) is ſo far a Puritan in this particular, that
+he not onely ſpends<note n="P" place="margin">Concio 6. 9 19, 20. 2<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> foure or five <hi>whole Sermons againſt
+dancing, mummeries, masks, and ſuch like Bacchanals,</hi>
+(which he ſimply condemnes at all times, <hi>but eſpecially
+on ſacred feſtivals</hi> and <hi>Lords dayes as most deteſtable pro<g ref="char:EOLhyphen"/>phanations
+of them;</hi>) but likewiſe profeſſeth; <hi>that the pra<g ref="char:EOLhyphen"/>ctiſe
+of them upon ſacred times,</hi> was the occaſion of all the
+<hi>publike calamities</hi> and judgements which they ſuffered.
+But by theſe <hi>Dances, Mummeries, Bacchanels, and diſor<g ref="char:EOLhyphen"/>ders</hi>
+(ſaith he) <hi>we pollute the holy dayes of the Lord: and yet
+nevertheleſſe we do inquire the reaſons why God doth puniſh
+us? why we are ſlain in our very houſes? do not the Scriptures
+cry aloud, Sin maketh a people miſerable:</hi> And there is no
+evill in the Citie, which the Lord hath not done. <hi>There<g ref="char:EOLhyphen"/>fore
+theſe our ſins of prophaning the holy dayes of the Lord
+with dances, revels and bacchanals, have procured us famine,
+and pover, y and peſtilence, and ſedition, and all plagues and
+ſcourges. And verily</hi> (ſaith he) in another Sermon, <hi>I ve<g ref="char:EOLhyphen"/>hemently
+<pb facs="tcp:112533:4"/>
+fear, that if we proceed to celebrate the Bacchanals
+with mummeries, and masks, and dances, as we do at other
+times, and to provoke God to wrath, with ſo many wicked
+paſtimes, our ſin will be grown to the full at laſt, and the anger
+of the Lord be ſo far incenſed, that he will utterly deſtroy us,
+as we ſee he hath deſtroyed many nations, for what I pray hath
+deſtroyed Grecia, but even that very thing which we do?
+They were men exceedingly given to drunkenneſſe, feaſting
+and dancing, (and that upon ſacred times) as may be known,
+by the Orations of</hi> Baſil, <hi>and</hi> Chryſoſtome. <hi>But what hath
+God done? becauſe they were addicted to theſe things, and
+eſpecially to Dancing, he hath impoſed ſuch a ſevere tyrant
+(to wit the Turke) upon their necks, that they now groane un<g ref="char:EOLhyphen"/>der
+the yoke, and are preſſed with ſo heavy a burthen, that
+they have neither Time nor Will to Dance or Caper.</hi> Thus
+<hi>Bellarmine</hi> to his great admirers ſhame and refutation. If
+then this ſin of prophaning the Lords day, by dancing,
+Maygames, Ales, Paſtimes, or unneceſſary travell and
+labour, draw down Gods Plagues and vengeance upon
+whole Kingdomes and Churches, as theſe authors, (to<g ref="char:EOLhyphen"/>gether
+with <hi>M<hi rend="sup">r</hi>. John Field, in his declaration of the judge<g ref="char:EOLhyphen"/>ment
+of God, at Paris Garden;</hi> and <hi>Humphrey Robarts in his
+complaint for the Reformation of divers vain, and wicked
+abuſed exerciſes, practiſed on the Sabbath day, which tend to
+the hindrance of the Goſpel, and increaſe of many abominable
+vices: printed by Richard Jones, London 1580. together with
+M<hi rend="sup">r</hi>. Philip Stubs, in his Anatomie of abuſes, and M. John
+Northrook in his Treatiſe where in Dicing, Dancing, vain
+playes and Enter ludes, with other idle Paſtimes and exerciſes
+commonly uſed on the Sabbath day, are by the Word of God,
+and ancient Writers reproved, printed for George Biſhop.
+London,</hi> 1579.) moſt punctually teſtifie: and the <hi>Practice
+<pb facs="tcp:112533:5"/>
+of Piety dedicated to his Majeſtie, and 39. times printed by
+publike authority reſolves:</hi> no wonder if it hath lately cau<g ref="char:EOLhyphen"/>ſed
+God to unſheath his ſword of exemplarie juſtice up<g ref="char:EOLhyphen"/>on
+theſe particular perſons, (that I ſpeak not of the
+whole kingdome in generall now ſcourged with a freſh
+plague and lately a draught) whoſe tragicall examples I
+here preſent unto your view, to deterre all others from
+this ſin. It is a true ſaying of <hi>Cyprian, Praebentur cunctis
+Exempla, cum fuerint quibuſdam irrogata Supplicia. The
+Divine puniſhments of a few, are warnings to all:</hi> God grant
+that theſe may be ſo to us. <hi>He</hi> faith the ſame Father) is
+<hi>over audacious, who ſtrives to paſſe over there, where he hath
+ſeen another to have fallen; he is patragiouſly head ſtrong, who
+is not ſtruck with fear, when he beholds another periſh in that
+courſe, which he is running; he onely is a lover of his own
+ſafety, who takes warning by the Deaths of othes: and he alone
+is a prudent man, who is made wife by the Ruins of other men,</hi>
+God of his mercie vouchſafe that the exemplarie deaths
+of theſe few here ſpecified (and of thouſands more in
+this time of mortality, occaſioned by this ſinne of Sab<g ref="char:EOLhyphen"/>bath-breaking
+were as the former peſts; <hi>Together with a
+Plague in Pope Pelagius the ſecond his time, An. Dom.</hi> 591.
+as <hi>Petrus Bleſſenſis in his 20. Sermon de Litania maſori, re<g ref="char:EOLhyphen"/>cords:</hi>)
+may prove life to many; and the judgements on
+ſome, become remedies to cure all, who are ſick of the
+ſelf ſame ſi<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne. Amen.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:112533:5"/>
+            <head>Examples of Gods Iudgements
+VPON
+SABBATH-BREAKERS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Examples of Gods judgements here<g ref="char:EOLhyphen"/>under
+ſet down, have fallen out within the
+ſpace of theſe few yeers, even ſince the De<g ref="char:EOLhyphen"/>claration
+for Sports (tolerated on the
+Lords day) was publiſhed, and read by ma<g ref="char:EOLhyphen"/>ny
+Miniſters in their congregations; for hereupon ill
+diſpoſed people (being as dry fewell, to which fire be<g ref="char:EOLhyphen"/>ing
+put, quickly flameth forth; or as waters, pent up and
+reſtrained being let looſe, break forth more furiouſly)
+were ſo incouraged, if not imaged, as taking liberty diſ<g ref="char:EOLhyphen"/>penſed,
+thereby ſo provoked God, that his wrath in
+ſundry places, hath broken out to the deſtruction of ma<g ref="char:EOLhyphen"/>ny,
+would to God to the inſtruction of any. And the
+judgements are ſo much the more remarkable, that ſo
+many in number, as here are obſerved, (beſides many
+more, no doubt which have not come to our ears) ſhould
+fall within ſo narrow a compaſſe of time, ſo thick, and
+that in ſo many places: as we read not of ſuch a number
+of judgements in this kinde for this one ſin throughout
+the whole hiſtory of time, from the Apoſtles hitherto:
+<pb n="2" facs="tcp:112533:6"/>
+So many there are of them, as, it were too heatheniſh to
+impute them to chance, &amp; too mûch ſtupidity, and envy
+of Gods glory, not to acknowledge the ſpeciall hand of
+God in them, upon ſuch tranſgreſſors of his own ſacred
+day; And it were to be wiſhed, that all the examples in
+this kinde, within this compaſſe of time; were diligently
+collected and compiled into one Narration, for the fur<g ref="char:EOLhyphen"/>ther
+illuſtration of Gods glory, and for admonition to
+all Sabbath-breakers, who if they repent not, nor ſur<g ref="char:EOLhyphen"/>ceaſe
+from ſuch their prophaneneſſe, it may juſtly be
+feared, that the number of ſuch examples will be daily
+increaſed, till they make a heap for all the world, to ſtand
+amazed at. In the mean time, who ſo is wiſe, and will ob<g ref="char:EOLhyphen"/>ſerve
+theſe things, even they ſhall underſtand the loving
+kindneſſe of the Lord: <hi>Pſal.</hi> 107 43. As for the truth of
+them, I have good teſtimony under the hands of men of
+ſufficient credit, for the moſt of them; and the reſt hath
+come to our eares by credible report. If it ſhall ſo fall
+out, that one or two, or ſo, ſhould prove otherwiſe, either
+for the ſubſtance, or circumſtance; let not the Reader
+blame me, who have uſed my beſt diligence to enquire
+out the certain truth of them all, and I am ſure the moſt
+of the examples are confirmed by witneſſes without all
+exception, and none of them is to me of any ſuſpected
+credit; So as here are no fained miracles, nor fabulous ſto<g ref="char:EOLhyphen"/>ries,
+nor old Wives tales, for prophane Scoffers to jeare
+at, and play upon, thereby to diſgrace and diſcredit all
+truths in this kinde, as ſome of late have done (Hiſtory of
+the Sabbath, part. 2. chap. 7. pag. 223.) but theſe exam<g ref="char:EOLhyphen"/>ples
+are ſuch, as will abide the triall and ſearch of this
+preſent age, wherein are yet living ſo many both eare
+and eye witneſſes of them.</p>
+            <div n="1" type="example">
+               <pb n="3" facs="tcp:112533:6"/>
+               <head>Example 1.</head>
+               <p>A woman about Northampton, the ſame day that ſhe
+heard the book for ſports read, went immediately, and
+having 3. pence in her purſe, hired a fellow to go to the
+next Town to fetch a Minſtrel, who coming, ſhe with
+others fell a dancing, which continued within night; at
+which time ſhe was got with childe, which at the birth
+ſhe murthering, was detected and apprehended, and be<g ref="char:EOLhyphen"/>ing
+convented before the Juſtice, ſhe confeſſed it, and
+withall told the occaſion of it, ſaying, it was her falling to
+ſport on the Sabbath, upon reading of the book, ſo as for
+this treble ſinfull act, her preſumptuous prophaning of
+the Sabbath: which brought her adultery and that mur<g ref="char:EOLhyphen"/>ther.
+She was according to the Law, both of God and
+man, put to death, much ſin and miſery followeth upon
+Sabbath-breaking.</p>
+            </div>
+            <div n="2" type="example">
+               <head>Example 2.</head>
+               <p>Alſo at Northampton, in the laſt Eaſter Aſſiſes, there
+was a young man, who formerly by ſeeing the example
+of good people, in the due ſanctification of the Lords
+day or Sabbath, had begun to reform his former looſe
+kinde of life, and to frame his converſation according to
+Gods Word, and that in the well keeping of the Sab<g ref="char:EOLhyphen"/>bath,
+abſtaining therein from ſports and paſtimes, and
+ſpending the whole day in the publike and private duties
+of it; but when once he heard of the publiſhing of the
+book for ſports; and paſtimes, he fell back again to his
+former wallowing, and being taken as he was picking a
+pocket, when the Judges were in the Church, upon ex<g ref="char:EOLhyphen"/>amination
+confeſſed what he had formerly been, and
+how he had been reformed, and that upon the publiſhing
+<pb n="4" facs="tcp:112533:7"/>
+of the ſaid book, he was incouraged to run riot a freſh, by
+which means he fell into this impiety and iniquity, for
+the which he ſuffered death.</p>
+            </div>
+            <div n="3" type="example">
+               <head>Example 3.</head>
+               <p>A Maid at Enfield neer London,<note place="margin">1634.</note> hearing of the liber<g ref="char:EOLhyphen"/>tie,
+which was given by the book, which was publiſhed
+for ſports, would needs go daunce, with others on the
+Lords day, ſaying ſhe would go daunce, ſo long as ſhe
+could ſtand on her legs; ſhe daunced ſo long, that there<g ref="char:EOLhyphen"/>of
+within two or three dayes ſhe died.</p>
+            </div>
+            <div n="4" type="example">
+               <head>Example 4.</head>
+               <p>Vpon May day laſt,<note place="margin">1634.</note> being the Lords day, a Maid of the
+Miniſter of the Pariſh, Cripplegate, London, was marri<g ref="char:EOLhyphen"/>ed
+to a Widower having three children, the youngeſt
+being at Nurce in the countrey; upon this day they kept
+their feaſt in the Church-houſe joyning to the Church,
+where they ſpent all the afternoon in dauncing: but with<g ref="char:EOLhyphen"/>in
+one week after, the Plague began in that Pariſh in the
+new married mans houſe, where within a moneth it took
+away the man and his wife, and his two children that
+were in the houſe. And thus was the Plague brought firſt
+into that Pariſh this yeer.</p>
+               <p>To this we will adde another example, becauſe it fell
+within the ſame moneth, in the ſame Citie. A Miniſter,
+Rector of a Church in London, on the Saturday would
+go with two of his neighbours, boon companions, to be
+joviall the next day, being the Lords day, they conditi<g ref="char:EOLhyphen"/>oning
+that he ſhould beſtow a Sermon upon them. They
+on the Lords day, being now in the countrey, ſpent the
+forenoon idly: in the afternoon they go to viſit another
+<pb n="5" facs="tcp:112533:7"/>
+Miniſter, who had another benefice there in the Coun<g ref="char:EOLhyphen"/>trey;
+he puts his brother to preach: which done invites
+him, with his companions, to a bottle of Sack. They
+drank ſo long, that the two neighbours tongues began to
+fail them. Home to their lodging within a few miles
+they betake them. That night their Miniſter could not
+ſleep; and riſing early to walk abroad, he returned with
+ſuch a coldneſſe upon him, that he looked, and felt like
+cold pale death; the two neighbours much diſmaid,
+and with much a do get him home to London, where in
+that caſe continuing, he dieth before the next Sabbath
+day.</p>
+            </div>
+            <div n="5" type="example">
+               <head>Example 5.</head>
+               <p>On <hi>Jan.</hi> 25. 1634. being the Lords day, in the time of
+the laſt great Froſt 14. young men preſuming to play at
+football upon the ice on the river Trent, neer to Ganiſ<g ref="char:EOLhyphen"/>borow,
+coming all together in a ſcuffle, the ice ſuddenly
+brake, and they were all drowned.</p>
+            </div>
+            <div n="6" type="example">
+               <head>Example 6.</head>
+               <p>At <hi>Dover</hi> the very ſame Lords day,<note place="margin">1635.</note> that the book was
+read, one in S. <hi>James</hi> Pariſh that played on a kitt, went
+and plaied, and thereby called together a ſort of wenches
+and young men: But he was thereupon that very day
+ſtruck by divine hand, ſo as within two daies he died.</p>
+            </div>
+            <div n="7" type="example">
+               <head>Example 7.</head>
+               <p>At <hi>Thurlow</hi> in Suffolke, one making a Feaſt to his
+friends on the Sabbath day, for joy of the publiſhing of
+the Book for ſports<g ref="char:punc">▪</g> was the next day preſſed to death,
+by the ſudden fall or a faggot ſtack.</p>
+            </div>
+            <div n="8" type="example">
+               <head>Example 8.</head>
+               <p>At <hi>Hellings by</hi> five or ſix miles from <hi>Af<gap reason="illegible: blotted" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> in Suſſex,
+the book being read on the Lords day, in the Church by
+<pb n="7" facs="tcp:112533:8"/>
+the Miniſter, on the next day being Munday, an honeſt
+man, one <hi>Tomkins</hi> being on his way, a neighbour over<g ref="char:EOLhyphen"/>takes
+him, and ſcoffingly asks him, if he would go daunce
+with him the next Sunday; to whom the man anſwered,
+Take heed that thou be not dauncing in hell before that
+day come, or before it be long; By the next week Gods
+hand fell on this Scoffer, that himſelf and two more of
+his family died.</p>
+            </div>
+            <div n="9" type="example">
+               <head>Example 9.</head>
+               <p>On February 9. 1634. being the Lords day, an Apo<g ref="char:EOLhyphen"/>thecaries
+man in Limeſtreet, London, rid to Barnet with
+another companion, to make merry, who returning home
+drunk, neer High-gate, met a Tinker, and offering him
+ſome abuſe, the Tinker ſtrikes one of their horſes, where<g ref="char:EOLhyphen"/>at
+the one bid the other run him thorow; who drawing
+his Rapier, ran the Tinker thorow the breaſt, that he fell
+down dead: thereupon being by and by apprehended,
+and confeſſing the fact, they were both ſent to Newgate.</p>
+            </div>
+            <div n="10" type="example">
+               <head>Example 10.</head>
+               <p>At Thornton neer Weſtcheſter,<note place="margin">1634.</note> the people there, up<g ref="char:EOLhyphen"/>on
+the firſt publiſhing of the book prepared for a ſolemn
+ſummer-ale. The bringing in of their <hi>Lady flora</hi> ſhould
+have been guarded with a Marſhall troop: the luſtieſt
+wench, and ſtouteſt young man in the town were choſen
+to be the purveyors for cakes, and for ribbons for fa<g ref="char:EOLhyphen"/>vours,
+the ſolemnity was to be on the Munday, but the
+preparation on the Lords day, this luſty tall maid, on the
+Saturday before went to the mill, to fetch home the
+meal for cakes on her head, ſhe being ſtrong and able for
+the purpoſe: but in the way, paſſing by a hedge, ſhe was
+ſuddenly ſtruck by a divine ſtroke, and fell into the ditch,
+where ſhe was found dead, ſhe was ſuffered to lie abroad
+<pb n="7" facs="tcp:112533:8"/>
+in that pickle all the Lords day, till Munday morning,
+when the Coroner being ſent for, ſhe was thence carried
+to her grave immediately, where all her ſolemnity was
+buried with her, and all her vain thoughts in that verie
+day, wherein the great ſolemnity ſhould have been. And
+ſee what a good effect this wrought in the whole town;
+Firſt, all their mirth was turned into mourning, no ſum<g ref="char:EOLhyphen"/>mer
+ale kept, and beſides that, they being moved by the
+dreadfull ſtroke of God, took their May-pole down,
+which they had before ſet up, and never after would pre<g ref="char:EOLhyphen"/>ſume
+to ſet it up again, or to have any more ſummer-ales,
+or may-games. God grant they continue in their ſober
+mindes, and that all other would learn to be wiſe by
+their example.</p>
+            </div>
+            <div n="11" type="example">
+               <head>Example 11.</head>
+               <p>In Yorkſhire at a Wake, in the Pariſh of Otley at Bail<g ref="char:EOLhyphen"/>don,<note place="margin">1634.</note>
+on the Lords day, two of them ſitting at drink, late
+in the night, fell out and being parted, the one a little after
+finding his fellow, ſitting by the fire with his back to<g ref="char:EOLhyphen"/>wards
+him, comes behinde him, and with a hatchet chines
+him down the back, ſo as his bowels fell out; the mur<g ref="char:EOLhyphen"/>therer
+flying immediately, and being hotly purſued, lept
+into a river, and ſo drowned himſelf. O fearfull fruits of
+carnall liberty!</p>
+            </div>
+            <div n="12" type="example">
+               <head>Example 12.</head>
+               <p>One at Ham neer Kingſton, being a ſcoffer of all good<g ref="char:EOLhyphen"/>neſſe,<note place="margin">1635.</note>
+and a common prophaner of the Sabbath, going
+abroad to ſee his grounds on the Lords day, and finding
+ſome neighbours cattell to have broken in, he runs to
+drive them out and that with ſuch eagerneſſe, that he fell
+down dead inſtantly upon the place.</p>
+            </div>
+            <div n="13" type="example">
+               <pb n="8" facs="tcp:112533:9"/>
+               <head>Example 13.</head>
+               <p>One <hi>Wright</hi> at Kingſton, being a ſcoffer of Religion,
+and rejoycing much at the ſuſpending of his Miniſter,
+and others, for not reading the book of Sports in their
+Churches, ſaying, he hoped to ſee them all ſo ſerved
+ſhortly: was within a day or two after ſtruck with a dead
+Palſey, all over the one ſide, and with blindneſſe and
+dumbneſſe, that he could neither go, nor ſee, nor ſpeak,
+and ſo lay in a miſerable manner for a fort-night, and
+then died.</p>
+            </div>
+            <div n="14" type="example">
+               <head>Example 14.</head>
+               <p>In Moorefields neer London,<note place="margin">1635.</note> ſundry youths playing
+at Cat on the Lords day, two of them fell out, and the
+one hitting the other under the eare with his Cat, he
+therewith fell down for dead in the place, the other was
+ſent to priſon: but the dead for the time, by Gods mercy
+recovering, the priſoner was releaſed; which may be a
+warning both to them, and all other youth, to take heed
+how they ſo prophane the Lords day.</p>
+            </div>
+            <div n="15" type="example">
+               <head>Example 15.</head>
+               <p>April 18. 1635. being Saturday, one travelling with
+three others from London to Maydenhead, he (the reſt
+ſpending the Sabbath there) would travell on his way,
+the next day being the Lords day, contrary both to Gods
+commandment, and alſo of the Lady whom he ſerved:
+who had given him ſtrict charge; to obſerve the Sab<g ref="char:EOLhyphen"/>bath,
+and not to travell on it. He rode in the morning to
+Henley, and there heard the Sermon, after that he fell to
+travell in the afternoon; but as he went in the way, lead<g ref="char:EOLhyphen"/>ing
+his horſe in his hand gently down a plain deſcent, and
+even way, his horſe ſuddenly fell, and broke both his fore
+legs, the man fore agaſt at this not more ſudden, then
+<pb n="9" facs="tcp:112533:9"/>
+ſtrange diſaſter, which he could not but attribute to the
+immediate hand of God, and being paſt all hope of reco<g ref="char:EOLhyphen"/>very
+was forced himſelf to knock his horſe on the head,
+and ſo to leave him, and being the next day overtaken at
+Abington by his company, whom he had left the day be<g ref="char:EOLhyphen"/>fore,
+and they asking him how it fell out, he was no fur<g ref="char:EOLhyphen"/>ther
+on his way, he ſmote his breaſt, and told them how
+it had befallen him in the way, ſaying that he had heard
+many a good Sermon, yet none of them or any thing elſe
+did ſo work upon his conſcience, as this thing did; and
+that this example ſhould be a warning unto him for ever
+travelling on the Sabbath day again. This is teſtified un<g ref="char:EOLhyphen"/>der
+the hands of thoſe three which had travelled with
+him, and overtook him.</p>
+            </div>
+            <div n="16" type="example">
+               <head>Example 16.</head>
+               <p>At Dartmouth 1634. upon the coming forth and
+publiſhing of the book for ſports, a company of youn<g ref="char:EOLhyphen"/>kers
+on May-day morning before day, went into the
+countrey, to fetch home a May pole with Drumme and
+Trumpet, whereat the neighbouring Inhabitants were
+affrighted, ſuppoſing ſome enemies had landed to ſack
+them, the Pole being thus brought home, and ſet up,
+they began to drink healths about it, and to it, till they
+could not ſtand ſo ſteady as the Pole did, whereupon the
+Major and Juſtice bound the ring leaders over to the Seſ<g ref="char:EOLhyphen"/>ſions,
+whereupon theſe complaining to the Archbiſhops
+Vicar Generall, then in his viſitation he prohibited the
+Juſtices to proceed againſt them in regard of the Kings
+book. But the Juſtices acquainted him, they did it
+for their diſorder, in tranſgreſſing the bounds of the
+book, hereupon theſe libertines ſcorning at Authority,
+one of them fell ſuddenly into a<note n="*" place="margin">Deut. 28. 22.</note> Conſumption, where<g ref="char:EOLhyphen"/>of
+<pb n="10" facs="tcp:112533:10"/>
+he ſhortly after died; now although this revelling was
+not on the Lords day, yet being upon any other day
+and eſpecially May-day, the May-pole ſet up thereon,
+giving occaſion to the prophanation of the Lords day
+the whole yeer after it was ſufficient to provoke God, to
+ſend plagues and judgements among them.</p>
+            </div>
+            <div n="17" type="example">
+               <head>Example 17.</head>
+               <p>In the ſame yeer 1634. and in the ſame Shire, one <hi>Ed<g ref="char:EOLhyphen"/>ward
+Amerideth</hi> a Gentleman, having been pained in his
+feet, and being upon his recovery, whereupon one ſaid
+unto him, he was glad to ſee him ſo nimble. <hi>Amerideth</hi>
+replied, that he doubted not, but to daunce about the
+May-pole the next Lords day: But behold the hand of
+the Lord, for before he moved out of that place, he was
+ſmitten with ſuch a feebleneſſe of heart, and dizſineſſe in
+his head, that deſiring help to carry him to an houſe, he
+died before the Lords day came, ſo fearfull it is to fall
+into the hands of the living God.</p>
+            </div>
+            <div n="18" type="example">
+               <head>Example 18.</head>
+               <p>One in Gloceſterſhire being very forward to advance
+a ſolemne ſommer-meeting, wherein his ſon was to be a
+chief ſtickler, went himſelf in great jollity to ſee it, and
+there beholding it, he fell down ſuddenly, and ſo died.</p>
+            </div>
+            <div n="19" type="example">
+               <head>Example 19.</head>
+               <p>A Miller at Churchdown, neer Gloceſter, would needs
+(contrary to the admonitions both of his Miniſter in
+private, and generally in publike, yea and that very day,
+and of other Chriſtian friends) keep a ſolemn Whitſon
+ale, for which he had made large preparation and provi<g ref="char:EOLhyphen"/>ſion,
+even of threeſcore dozen of cheeſecakes, with other
+things proportionable; in the Church-houſe, half a mile
+from his Mil, his muſicall inſtruments were ſet forth on
+<pb n="11" facs="tcp:112533:10"/>
+the ſide of the Church-houſe, where the Miniſter and
+people were to paſſe to the Church to Evening Prayer.
+When Prayer and Sermon were ended, the Drumme is
+ſtruck up, the peeces diſcharged, the Muſicians play, and
+the rowt fall a dauncing, till the evening; where they all
+with the Miller reſort to his Mill; where that evening
+before they had ſupt, about nine of the clock on Whit<g ref="char:EOLhyphen"/>ſunday,
+a fire took ſuddenly in his houſe over their heads,
+and was ſo brief and quick, that it burnt down his houſe
+and mill, and devoured with all the greateſt of all his
+other proviſion and houſholdſtuffe. This is confirmed by
+ſundry good teſtimonies.</p>
+            </div>
+            <div n="20" type="example">
+               <head>Example 20.</head>
+               <p>
+                  <hi>Richard Benfield</hi> an Apparitor in the Pariſh of Hem<g ref="char:EOLhyphen"/>ſteed
+kept an Ale in the Church-houſe, joyning to the
+Church-yard with dauncing and revelling night and day
+without controule: pretending that the Biſhop would
+bear him out, and not unlikely, becauſe at his complaint
+to the Biſhop of his Miniſter, for preaching againſt daun<g ref="char:EOLhyphen"/>cing
+and Maypoles, he was ſuſpended for his labour) It
+happened that upon the Lords day at even, being the 20.
+day of April, that his youngeſt ſon was accuſed for ſteal<g ref="char:EOLhyphen"/>ing
+a purſe, and 20. ſhillings in it, from a Butcher who lay
+drunk upon the board or table in the Church-houſe, for
+which he was like to be hanged (the purſe being found
+about him.) Vpon the 21. day of the ſaid moneth, <hi>Ben<g ref="char:EOLhyphen"/>field</hi>
+his eldeſt ſon <hi>Richard</hi> went down into <hi>Hempſteeds
+Peirſe,</hi> about ſome buſineſſe, and his youngeſt brother
+with him, where they met with a little boy called <hi>Baker</hi>
+that had been a fiſhing) having ſome ſmall fiſhes in his
+hand. <hi>Benfields</hi> youngeſt ſonne would have taken theſe
+fiſhes from <hi>Baker,</hi> whereupon they fell together by the
+<pb n="12" facs="tcp:112533:11"/>
+eares. The eldeſt brother <hi>Rich. Benfield</hi> went to help his
+younger brother, being too weak for <hi>Baker.</hi> This <hi>Baker</hi>
+did ſwear a great oath that he would ſtab him, if he did
+meddle with him; upon which words <hi>Benfield</hi> fell upon
+<hi>Baker,</hi> gave him a box or two, and ran away. <hi>Baker</hi> fol<g ref="char:EOLhyphen"/>lowed
+him with his knife in his hand, overtook him, and
+thruſt his knife three inches deep into his body, which
+wound proved mortall, ſo that he never ſpake more
+words then theſe; Oh <hi>Jack Baker</hi> hath killed me, and ſo
+fell down. Two men being preſent there, took him up in
+their armes, brought him up into the Church-houſe a<g ref="char:EOLhyphen"/>live,
+and ſo ſoon as they had put him out of their armes
+upon the table, he groaned, and died.</p>
+               <p>Remarkable it is, that where the Father drew ale upon
+the Lords day and ſo prophaned it: In the ſame place his
+ſon the next day drew his laſt breath: for that the pu<g ref="char:EOLhyphen"/>niſhment
+inflicted was ſtamped with the reſemblance of
+the ſin convicted.</p>
+            </div>
+            <div n="21" type="example">
+               <head>Example 21.</head>
+               <p>At Baunton in Dorcetſhire ſome being at bowls on
+the Lords day,<note place="margin">1634.</note> one flinging his bowl at his fellow-bow<g ref="char:EOLhyphen"/>ler,
+hit him on the eare, ſo as the blood iſſued for that the
+other eare, whereof he ſhortly died. The murtherer fled.</p>
+            </div>
+            <div n="22" type="example">
+               <head>Example 22.</head>
+               <p>One good man <hi>Paul</hi> neer Stoke in Dorcetſhire, rejoy<g ref="char:EOLhyphen"/>cing
+much at the erection of a ſummer pole,<note place="margin">1634.</note> at a Pariſh
+called Simsbury in Dorcetſhire, and ſaying before one
+of his neighbours, he would go ſee it, though he went na<g ref="char:EOLhyphen"/>ked
+through a quickſet hedge: which is a common pro<g ref="char:EOLhyphen"/>verbe
+they uſe: Going with wood in his armes to caſt in<g ref="char:EOLhyphen"/>to
+the bonfire, where he lived, and uſing theſe words:
+<pb n="13" facs="tcp:112533:11"/>
+Heaven and earth are full of thy glory, O Lord: he was
+preſently ſmitten by the ſtroke of God, and within two
+or three daies died, and his wife with him. Theſe two
+laſt examples are teſtified by a Miniſter in his letter to a
+brother Miniſter.</p>
+            </div>
+            <div n="23" type="example">
+               <head>Example 23.</head>
+               <p>In the edge of Eſſex neer Brinkley, two fellows work<g ref="char:EOLhyphen"/>ing
+in a chalkpit, the one was boaſting to his fellow, how
+he had angred his Miſtreſſe with ſtaying ſo late at their
+ſports the laſt ſunday night, but he ſaid he would anger
+her worſe the next Sunday. He had no ſooner ſaid this,
+but ſuddenly the earth fell down upon him, and ſlew him
+out right, with the fall whereof his fellows limbe was
+broken, who had been alſo partner with him in his jolli<g ref="char:EOLhyphen"/>tie
+on the Lords day, eſcaping with his life, that he
+might tell the truth, that God might be glorified, and
+that by this warning he might repent of his ſin, and re<g ref="char:EOLhyphen"/>form
+ſuch his prophaneneſſe, and remain as a pillar of
+ſalt, to ſeaſon others with fear by his example.</p>
+            </div>
+            <div n="24" type="example">
+               <head>Example 24.</head>
+               <p>The laſt Spring a Miller hard by Wootton in Wor<g ref="char:EOLhyphen"/>ceſterſhire,
+went on the Lords day to a wake, whence re<g ref="char:EOLhyphen"/>turning
+home again, the ſame day at night found his Mill
+and houſe all on a fire; this was teſtified by a Miniſter (in
+a Reply to another Miniſter) who was an eye witneſſe.</p>
+            </div>
+            <div n="25" type="example">
+               <head>Example 25.</head>
+               <p>At Woolſton in the ſame countrey, where the ſaid
+Miniſters father had been Miniſter fourty yeers, and by
+Gods bleſſing upon his labours, had reformed things ve<g ref="char:EOLhyphen"/>ry
+well<g ref="char:punc">▪</g> yet upon the publication of this book in print,
+many of the inhabitants the Spring following, were im<g ref="char:EOLhyphen"/>boldned
+to ſet up Maypoles, Morrice daunce, and a
+<pb n="14" facs="tcp:112533:12"/>
+Whitſon ale, continuing their rude revelling a week to<g ref="char:EOLhyphen"/>gether,
+with many affronts to their ancient and reverend
+Paſtor: but it pleaſed God, that not long after, a ſpark
+from a Smiths ſhop, caught in that roome where the ale
+was brewed, and though means were ready at hand, yet
+it could not be quenched, but ſet the houſe on fire, and
+preſently flew to the barn in which their diſorder was,
+and burnt the ſame with thirteen dwelling houſes more,
+moſt of whoſe Inhabitants were actors or abetters in the
+fame: This is teſtified by many.</p>
+            </div>
+            <div n="26" type="example">
+               <head>Example 26.</head>
+               <p>
+                  <hi>Richard Jones</hi> ſon of Widow <hi>Jones,</hi> July 1634. not
+far from Dorcheſter, being ſeverely admoniſhed by his
+mother, when ſhe underſtood he had a purpoſe on Satur<g ref="char:EOLhyphen"/>day
+night, to go on the Lords day with other compani<g ref="char:EOLhyphen"/>ons
+to Stoake to play at a ſport, called Fives, but perſiſt<g ref="char:EOLhyphen"/>ing
+in his reſolution, and going the next day, accordingly
+being the Lords day at Stoke, where he played at the ſaid
+ſport, at night returning home with his companions,
+<hi>William Burges, William Hill, John Edwards,</hi> after they
+had there well drunk, they fall firſt a juſtling one another
+in the way, then to boxes, and in the end <hi>Edwards</hi> ſtab<g ref="char:EOLhyphen"/>bing
+<hi>Jones</hi> under the left ſide, he died thereof, the Mun<g ref="char:EOLhyphen"/>day
+night following about 7. of the clock. Behold here a
+terrible example of diſobedience, to Gods holy Com<g ref="char:EOLhyphen"/>mandments,
+not onely the fourth, but the fifth alſo.</p>
+            </div>
+            <div n="27" type="example">
+               <head>Example 27.</head>
+               <p>At Ovendean in Suſſex about nine or ten miles from
+Alfriſton, <hi>alias</hi> Aſon, one <hi>John Arcold,</hi> of the age of one
+or two and twenty yeers, eldeſt ſon to <hi>John Arcold,</hi> a
+Blackſmith dwelling in Aſon, with other younkars would
+needs fall a ringing of the bels on a Sabbath day, preſu<g ref="char:EOLhyphen"/>ming
+<pb n="15" facs="tcp:112533:12"/>
+the Book for Sports gave them full libertie ſo to
+do. One of the Churchwardens <hi>Robert Kenward</hi> hindred
+them from their jangling; whereupon the ſaid <hi>Arcold,</hi>
+and his companions fell in ſome conteſtation with him,
+telling him that though he hindred them now, yet they
+would ring the next Sunday, whether he would or no.
+But the ſaid <hi>John Arcold</hi> the ringleader before the next
+Sunday came, was ſtruck with a ſickneſſe, in which he
+continued a fortnight or three weeks til he died, in which
+time <hi>Robert Kenward</hi> the Churchwarden, repairing to
+him, and putting him in minde of his bold affronting of
+him, he ſeemed to be ſorry for it, and promiſed, if God
+would be pleaſed to reſtore him again to his health, he
+would never do the like. God make his ſurviving com<g ref="char:EOLhyphen"/>panions,
+and all others, wiſe by his example.</p>
+            </div>
+            <div n="28" type="example">
+               <head>Example 28.</head>
+               <p>At Walton upon Thames in Surrey,<note place="margin">1634.</note> not far from
+Oatlands, in the laſt great Froſt, three young men on the
+Lords day, after they had been at the Church in the fore<g ref="char:EOLhyphen"/>noon,
+where the Miniſter preſſing the words of his text,
+out of 2. <hi>Cor.</hi> 5. 10. that we muſt all appear before the
+judgement ſeat of Chriſt, &amp;c. they the while whiſpering
+one to another, as they fa<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e. In the afternoon they went
+together over the Thames, upon the ice, unto a houſe of
+diſorder, and gaming, where they ſpent the reſt of the
+Lords day, and part of the night alſo in revelling, one of
+them in a Tavern merrily diſcourſing the next day of his
+Sabbath-acts, and voyage over the Ice; but on Tueſday
+next after, theſe three returning homwards, and attemp<g ref="char:EOLhyphen"/>ting
+to paſſe againe over the Ice, they all ſanke downe
+to the bottome as ſtones, whereof one onely of them
+was miraculouſly preſerved, but the other two were
+<pb n="16" facs="tcp:112533:13"/>
+drowned.<note place="margin">Eccl 11. 9.</note> Rejoyce, O young man, in thy youth, and let
+thy heart chear thee in the dayes of thy youth, and walk
+in the wayes of thy heart, and in the ſight of thine eyes:
+But know thou, that for all theſe things God will bring
+thee unto judgement.</p>
+            </div>
+            <div n="29" type="example">
+               <head>Example 29.</head>
+               <p>In the yeer of our Lord 1633. Octob. 26. after the
+book for ſports was known to be publiſhed in print, <hi>Da<g ref="char:EOLhyphen"/>vid
+Price</hi> a Welſhman, ſervant to one <hi>Thomas Hill,</hi> a
+known Graſier of that countrey, coming to Banbury with
+his drove on Saturday night, declared his purpoſe of dri<g ref="char:EOLhyphen"/>ving
+them the next day, early in the morning being the
+Sabbath or Lords day: his Hoſt where he lodged, diſ<g ref="char:EOLhyphen"/>ſwaded
+him, becauſe it was the Sabbath day, and told
+him that he would certainly be ſtopped, and made to
+pay for it according to the Statute. He anſwered that he
+would drive them, and let mee ſee (ſaith he) who will
+hinder me. So in the morning two other accompaning
+him, he went to fetch the Cattell out of the ground,
+one that knew him, mett him at the Townes end (not
+yet one of the Towne) and admoniſhed him, ſaying,
+What, David, to day, to day; he made no anſwere, but
+went onward, and though for any thing, that appeared
+to any other, or that himſelf complained of, he was then
+in good health, as ever he was, yet within little more
+then a ſtones caſt of the Town, he fell down dead ſudden<g ref="char:EOLhyphen"/>ly,
+and was buried in Banbury Church-yard the next day
+after; None could diſcern any ſenſible or evident cauſe
+of ſo ſudden a ſurprizall; and himſelf gave no ſigne of
+any pain, weakneſſe, or illneſſe, till the inſtant time he
+gave up the ghoſt.</p>
+            </div>
+            <div n="30" type="example">
+               <pb n="17" facs="tcp:112533:13"/>
+               <head>Example 30.</head>
+               <p>At Wicks a Town betwixt Colcheſter and Harwich
+in Eſſex, upon Whit ſonday laſt in the afternoon two fel<g ref="char:EOLhyphen"/>lows
+meeting at the football, the one killed the other.</p>
+            </div>
+            <div n="31" type="example">
+               <head>Example 31.</head>
+               <p>At Oxford this laſt Summer on the Sabbath day, one
+<hi>Bally Hawks</hi> a Butcher, would needs go into his field with
+an hatchet and ſhovell to mend his ditch: his wife diſ<g ref="char:EOLhyphen"/>ſwaded
+him what ſhe could, being the Sabbath day, but
+he ſaid he would go and make an end of his work, which
+he did, for ſuddenly he was ſtruck dead in his ditch, and
+ſo made an end of his work, and his life together.</p>
+            </div>
+            <div n="32" type="example">
+               <head>Example 32.</head>
+               <p>Alſo at Oxford a Carpenter undertaking to mend a
+Stage in S. <hi>Johns</hi> Colledge on the Saturday night, for
+the finiſhing whereof he muſt of neceſſity ſpend ſome
+part of the Lords day morning<g ref="char:punc">▪</g> that the Stage might be
+ready againſt the Munday following, he that night fell
+backward from the ſtage, being not far from the ground,
+and brake his neck, and ſo ended his life in a fearfull
+Tragedie.</p>
+            </div>
+            <div n="33" type="example">
+               <head>Example 33.</head>
+               <p>At Ivye Hinckley a mile from Oxford (about the
+time when May-poles are ſet up) on the Lords day after
+Evening Prayer, when moſt of the Town were at the
+May-pole, one <hi>John Cooper,</hi> ſervant to maſter <hi>Tinmore</hi> of
+the ſaid Town, going along the ſtreet, a maid out of a
+window in <hi>John Nicols</hi> his houſe, not far from the May<g ref="char:EOLhyphen"/>pole,
+called him to come in thither; where alſo was ano<g ref="char:EOLhyphen"/>ther
+maid, and a young man named <hi>Chriſtopher Young,</hi>
+ſervant to Maſter <hi>Willis</hi> of the ſaid Town; John Cooper
+<pb n="18" facs="tcp:112533:14"/>
+at firſt refuſed to come to them, but the maid earneſtly
+intreating him, he yeelded to her, and being come in,
+ſate down by the other two, where having ſate awhile,
+the foreſaid <hi>Chriſtopher Young</hi> ſpied a Gun over the
+chimney, which he ſuppoſing not to be charged, fondly
+took down, and fell a tampering with it, and firſt levelled
+at the Maids, and after held it up againſt <hi>John Cooper,</hi> as
+he ſate, and unwittingly lifting up the cock, it ſtruck fire,
+and the peece diſcharged, and ſhot the ſaid <hi>John Cooper</hi>
+thorow the ſhoulder, ſo that he died preſently, being
+heard onely to ſay, O Lord.</p>
+            </div>
+            <div n="34" type="example">
+               <head>Example 34.</head>
+               <p>A young man neer Bowe, going to ſwim in the river
+on Eſſex ſide, on the Lords day in the afternoon, was
+drowned</p>
+            </div>
+            <div n="35" type="example">
+               <head>Example 35.</head>
+               <p>Two boyes of S. <hi>Albons,</hi> going to Verolanes Ponds, a
+mile off to ſwim on the Lords day, July 19. one of them
+was drowned, and the other hardly eſcaped.</p>
+            </div>
+            <div n="36" type="example">
+               <head>Example 36.</head>
+               <p>At Ramſey in Suffolke, a tall man on the Lords day
+going with others to ſwim, and being advertiſed and
+warned of a hole in the water; he ſware that there was
+no place there could drowne him, but by and by on a
+ſudden he was miſſing, being now under water, and ſo
+drowned.</p>
+            </div>
+            <div n="37" type="example">
+               <head>Example 37.</head>
+               <p>On September 13. 1635. being the Lords day, two
+young men of the Pariſh of S. <hi>Dunſtans</hi> in the Weſt,
+London, going to ſwim, were both drowned.</p>
+            </div>
+            <div n="38" type="example">
+               <pb n="19" facs="tcp:112533:14"/>
+               <head>Example 38.</head>
+               <p>At Twiford in Buckinghamſhire, a fellow playing at
+cudgels on the Lords day (or as ſome ſay, upon a revell
+day) received a hurt in the face, whereof he died the next
+week.</p>
+            </div>
+            <div n="39" type="example">
+               <head>Example 39.</head>
+               <p>At Lemſter, one Maſter Powel, Januar. 1634. on the
+Lords day ſerving a Writ of <hi>ſub poena</hi> (and that of pur<g ref="char:EOLhyphen"/>poſe
+on that day as is credibly reported) upon one M<hi rend="sup">r</hi>.
+<hi>Shuit</hi> a Gentleman, this he did in the Church yard, ſo
+ſoon as they were come out of the Church: M<hi rend="sup">r</hi>. <hi>Shuit</hi>
+thereupon told him, I thought you had been an honeſter
+man then ſo, to do this upon this day; he replyed, I hope
+I am never a whit the more diſhoneſt, or leſſe holy for
+that: having ſpoken this, he ſuddenly fell down dead,
+and ſpake not a word more, his wife ſeeing this, was
+ſuddenly ſtruck with ſickneſſe.</p>
+            </div>
+            <div n="40" type="example">
+               <head>Example 40.</head>
+               <p>A fellow in Sommerſetſhire being to make a Tent
+upon the Lords day, for a Faire that was to be kept upon
+the Munday following, ſaid to one on the Saturday, that
+they would reare it to morrow, ſo the next day which
+was the Lords day, being drunk, he died the ſame day
+roaring.</p>
+            </div>
+            <div n="41" type="example">
+               <head>Example 41.</head>
+               <p>At Corſham in Wiltſhire in the Whitſun week, at a
+Whitſun-ale, one <hi>Mark Hulbert,</hi> a luſty young man, un<g ref="char:EOLhyphen"/>dertaking
+to act the fools part, was ſo extreamly drunk
+and hurt with falls taken in the time of his drunkenneſſe,
+that ſhortly he took his bed, where he lay very loath<g ref="char:EOLhyphen"/>ſomely,
+in moſt grievous pain, untill the ſixt day of June,
+being the Lords day, on which he died at 4. of the clock
+<pb n="20" facs="tcp:112533:15"/>
+in the afternoon (the uſuall time for youth to take their
+liberty) and was buried the ſame day before 9. of the
+clock, and yet he burſt, before he was laid into his grave,
+See <hi>Joh</hi> 31. 3.</p>
+            </div>
+            <div n="42" type="example">
+               <head>Example 42.</head>
+               <p>At Topudle in Dorcetſhire, one <hi>John Hooper alias Cole,</hi>
+upon the promulgation of the ſaid Book, was let down
+into a Well to cleanſe it, for to brew beer for a Whitſon<g ref="char:EOLhyphen"/>ale,
+by <hi>Francis Laurence, alias Smith,</hi> and <hi>Stephen Pope</hi>
+Churchwardens, which Well was in the back-ſide of
+<hi>Richard Laurence alias Smith.</hi> Which <hi>John Hooper</hi> fell
+from the rope into the Well, where he died.</p>
+            </div>
+            <div n="43" type="example">
+               <head>Example 43.</head>
+               <p>At Glaſſenbury in Sommerſetſhire, at the ſetting up
+of a May-pole, it miſcarrying fell upon a child, and ſlew
+it, &amp; it is reported that it was the Churchwardens child,
+who was the chief ſtickler in the buſineſſe. Alſo when
+the May<g ref="char:punc">▪</g> pole in the ſame Town, was again the ſecond
+time a ſetting up, a fire took in the Town, ſo as all the
+people about the May-pole were forced to leave it, and
+to run to the quenching of the fire.</p>
+            </div>
+            <div n="44" type="example">
+               <head>Example 44.</head>
+               <p>A May-lord of miſrule, not far from thence became
+mad upon it.</p>
+            </div>
+            <div n="45" type="example">
+               <head>Example 45.</head>
+               <p>Alſo at Batterſey neer London, the laſt yeer a notable
+example of Gods judgement befell a fidler, the youth of
+the town of both ſexes, being aſſembled ſolemnly to ſet
+up a garland upon their May-pole and having got a tabor
+and pipe for the purpoſe, he with the pipe in his mouth,
+fell down dead and never ſpake word.</p>
+            </div>
+            <div n="46" type="example">
+               <pb n="21" facs="tcp:112533:15"/>
+               <head>Example 46.</head>
+               <p>On May 31. 1635. being the Lords day, one <hi>Richard
+Clerk</hi> (an apprentiſe unto <hi>Timothy Denorell</hi> ſhoomaker of
+Sherſton in the countrey of Wiltſhire, within three miles
+of Tedbury,) being drunk at the Church-houſe in the
+ſame Pariſh, told <hi>Henry Larrum</hi> of the ſame Pariſh, that
+was then in the ſame place drunk likewiſe with the
+Church-houſe ale, that he the ſaid <hi>Richard,</hi> would either
+hang himſelf, or drown himſelf, demanding of the ſaid
+<hi>Henry</hi> which of the two was beſt; unto whom he repli<g ref="char:EOLhyphen"/>ed,
+that he hoped he would do neither; on the day fol<g ref="char:EOLhyphen"/>lowing,
+being Munday in the morning, the ſaid <hi>Richard
+Clerk</hi> was ſeen to go through the ſtreet, without a band,
+as if he had been going about his maſters buſineſſe, and
+putting on his band without the Town, he got up into
+the middle of a tree, and there did hang himſelf. A mi<g ref="char:EOLhyphen"/>ſerable
+effect of carnall liberty and prophane meetings
+on the Lords day.</p>
+            </div>
+            <div n="47" type="example">
+               <head>Example 47.</head>
+               <p>The 31. May 1635. the book of recreation was read
+in the Pariſh Church of Alvelye in <hi>Comit. Salop.</hi> in the
+afternoon; after all divine exerciſes publike ended, there
+fell out a bloody fight betwixt 3. of Alvelye above ſaid,
+and one of Envield of the countrey of Stafford neer ad<g ref="char:EOLhyphen"/>jacent,
+in ſo much that the man of Envield was ſore
+wounded, and had his jaw-bone broken, ſo that he could
+not eat his meat for the ſuſtaining of nature; In his ex<g ref="char:EOLhyphen"/>tremity
+he laid his death to the charge of the other 3.
+The Churchwardens of the pariſh of Alvelie aboveſaid,
+preſented theſe 4. for prophaning of the Sabbath to my
+Lord his grace of Canterbury (to uſe the words of the
+relation) being the time of his metropoliticall viſitation,
+<pb n="22" facs="tcp:112533:16"/>
+ſince which time two of the parties fled; the third was
+committed to priſon in Shrewsbury, and was the next
+Aſſiſes to come to his anſwer.</p>
+            </div>
+            <div n="48" type="example">
+               <head>Example 48.</head>
+               <p>In March betwixt 1634. and 1635. at Billericay in
+Eſſex, one <hi>Theophilus Peaſe,</hi> the Miniſters ſon of that
+Town, went to ring the bels on the Sabbath day, whom
+the Church wardens for that time hindred; But againſt
+the next Sabbath, he gathered a company together,
+faying he would ring in deſpite of the Church wardens.
+While he was a ringing, he was taken with a giddineſſe
+like one drunk, and ſo ſickned, and about three daies after
+died.</p>
+            </div>
+            <div n="49" type="example">
+               <head>Example 49.</head>
+               <p>
+                  <hi>Anno</hi> 1635. Januarie or thereabout in Chicheſter
+Dioceſſe, one <hi>Thomas Perkin,</hi> a wilfull and uſuall propha<g ref="char:EOLhyphen"/>ner
+of Gods Sabbath in Hailing South, being ringing
+on a Sabbath day, the rope took him up, and flinging
+him about eight foot high, he fell down on his head, and
+was taken up dead, and ſo remained long, but life at laſt
+was gotten into him, yet the bruiſe in his head is ſo great
+and dangerous as death is expected; and little hope of life
+remaineth.</p>
+            </div>
+            <div n="50" type="example">
+               <head>Example 50.</head>
+               <p>At Craies, two miles from Billerikey, a ſervant of M.
+<hi>Holdſworth,</hi> Miniſter there, ringing on the Sabbath, his
+Maſter ſent to forbid him: but he would ring ſtill, and
+before he had done ringing, he was ſtruck ſick, and a
+while after died. This was a little after the book for
+ſports was publikely read in the Church.</p>
+            </div>
+            <div n="51" type="example">
+               <head>Example 51.</head>
+               <p>In June 1635. on the Lords day, the Tapſter and
+<pb n="23" facs="tcp:112533:16"/>
+Chamberlain of the Queens head in South warke, rid in<g ref="char:EOLhyphen"/>to
+Kent to be merry, and having drunk liberally, riding
+homewards, the one of them fell from his horſe, and
+broke his neck.</p>
+            </div>
+            <div n="52" type="example">
+               <head>Example 52.</head>
+               <p>Alſo in June 1635. and as ſome report the very ſame
+Lords day, in Southwarke at the red Lion, neer S. <hi>Georges</hi>
+Church, in the afternoon, a man with another ſate drink<g ref="char:EOLhyphen"/>ing
+ſo long, that the other about ſix of the clock depart<g ref="char:EOLhyphen"/>ing,
+fell a ſleep ſo, that he never awaked again.</p>
+            </div>
+            <div n="53" type="example">
+               <head>Example 53.</head>
+               <p>In the moneth of July 1634. one M<hi rend="sup">r</hi>. <hi>Quince</hi> the Chi<g ref="char:EOLhyphen"/>rurgion
+of the Tower of London, having an horſe to ſel,
+and meeting with a chapman, went to Coleman-ſtreet,
+where the horſe was kept, to ſee and contract for him, on
+the Lords day in the afternoon; the horſe being ſadled,
+M<hi rend="sup">r</hi>. <hi>Quince</hi> gets upon his back, to ſhew his chapman how
+well he would pace; which done, as he was a lighting off
+his back, his foot, which lighted on the ground ſlipped,
+the other foot hung in the ſtirrup, ſo as he fell to the
+ground, and with the fall brake his thigh-bone ſhort off,
+ſo that he was carried from the place to an houſe neer ad<g ref="char:EOLhyphen"/>joyning,
+where he lay in great pain and agonie for eight
+weeks ſpace or more, almoſt deſpairing of his life, and
+never ſtirring out of his bed: at laſt it pleaſed God, by
+degrees to recover and reſtore him to the uſe of his leg
+again, he having little uſe of it (and that with great pain)
+for half a yeers ſpace and more. His ſon had diſſwaded
+him from riding, becauſe it was the Lords day; and him<g ref="char:EOLhyphen"/>ſelf
+hath ſince acknowledged it a juſt judgement of God
+upon him for prophaning that ſacred time, which hath
+made him more carefully to frequent the Church, and
+<pb n="24" facs="tcp:112533:17"/>
+to avoid the prophanation of the Lords day ever ſince.
+This the party himſelf, and moſt of the Tower can te<g ref="char:EOLhyphen"/>ſtifie.</p>
+            </div>
+            <div n="54" type="example">
+               <head>Example 54.</head>
+               <p>Many more examples might here be added, not onely
+ſuch as have fallen out within theſe few yeers laſt paſt,
+ſince the ſaid book was publiſhed by the Miniſters in
+their Churches, but alſo, ſince the book was firſt of all
+printed and publiſhed; the very bruit whereof, without
+being read by Miniſters, was enough, and too much to
+imbolden youth to take their liberty in prophaning the
+Lords day, but for the preſent, I will adde but one more.
+At Chidlington upon the edge of Hertfordſhire, not far
+from Hitchin, a company of fellows upon a holy day be<g ref="char:EOLhyphen"/>ing
+to play a match at Foot-ball, one of them was tolling
+the bell, to aſſemble the reſt, ſome being come into the
+Church the randevoze of their meeting, ſuddenly it
+thundring was ſeen a black ball come tumbling down a
+hill neer by: which took its courſe directly into the
+Church, there it flew into the Bell-free and firſt ſlew
+him, that tolled the bell, then it fluſtered about the
+Church and hurted divers of them, and at laſt burſting;
+left a filthy ſtinke like to that of brimſtone, and ſo left a
+terror to all ſuch ſpend thrifts of precious time, and eſpe<g ref="char:EOLhyphen"/>cially
+ſuch as is dedicated to ſacred uſes: <hi>Who ſo is wiſe
+and will obſerve theſe things, even they ſhall underſtand the
+leving kindneſse of the Lord.</hi> Pſal. 107. 43.</p>
+            </div>
+            <div n="55" type="example">
+               <head>Example 55.</head>
+               <p>Vpon May Eve <hi>Thomas Tree</hi> of Gloceſter, Carpenter
+in the Pariſh of S. <hi>Michael,</hi> ſome coming unto him, and
+asking him, whether he would go with them to fetch the
+May-pole, he ſwore by the Lords wounds, that he
+<pb n="25" facs="tcp:112533:17"/>
+would, though he never went more. Now whiles he
+was working on the May-pole on May day morning, be<g ref="char:EOLhyphen"/>fore
+he had finiſhed his work, the Lord ſmote him with
+ſuch a lameneſſe and ſwelling in all his limbs, that he
+could neither go, nor lift his hands to his mouth, to feed
+himſelf, but kept his bed for half a yeer together, and ſtil
+goes lame to this day; May 4. 1636.</p>
+            </div>
+            <div n="56" type="example">
+               <head>Example 56.</head>
+               <p>About a yeer ſince 1635. in Aſhton under the Hill, in
+the Pariſh of Beckford, in the countrey of Gloceſter, the
+Miniſter there M<hi rend="sup">r</hi>. <hi>Blackwell,</hi> having occaſion in his Ser<g ref="char:EOLhyphen"/>mon
+in the afternoon on the Lords day to reprove the
+prophaning of that day by ſports, &amp;c. as ſoon as the Ser<g ref="char:EOLhyphen"/>mon
+was done, a young man of that place uſed theſe
+words, Now M<hi rend="sup">r</hi>. <hi>Blackwell</hi> hath done, we'le begin; and
+ſo taking the cudgels, playes with them; and at the ſe<g ref="char:EOLhyphen"/>cond
+or third bout, he received a thruſt in one of his
+eyes, that thruſt it quite out, ſo as it hanged by, and could
+never recover it again.</p>
+               <p>THeſe Examples of divine juſtice, ſo notorious, ſo re<g ref="char:EOLhyphen"/>markable
+both for humber and variety, having fallen
+out in ſo narrow a compaſſe of time, and ſo diſperſed
+over the whole land, as every particular place, and coun<g ref="char:EOLhyphen"/>trey
+might take ſpeciall notice thereof if they will not
+take, and make impreſſion in our ſtony hearts, to move us
+to ſpeedy repentance (as for many other enormities, and
+crying ſins, ſo in ſpeciall) for this our ring leading ſin
+of the heatheniſh prophanation of the Sabbath, or Lords
+day: what plea can we make for our ſelves; why the
+Lord of the Sabbath ſhould not ſend ſome univerſall,
+epidemicall ſweeping calamity upon the land, ſparing
+<pb n="26" facs="tcp:112533:18"/>
+neither ſmall nor great? And now, that the plague and
+peſtilence begins to break forth, and ſpreads it ſelf much
+amongſt us, the Lord ſhooting theſe his terrible vene<g ref="char:EOLhyphen"/>mous
+arrows, from which not even Princes nor Prelates
+palaces can ſecure themſelves, from becoming his buts
+and marks: What can we more impute it unto, as the
+cauſe thereof, then to this grand ſin, of the prophanation
+of the Sabbath or Lords day, occaſioned ſo much the
+more by the publiſhing of the late book for ſports, and
+that, by the Miniſters themſelves? For was it not the
+judgement and confeſſion of King <hi>James</hi> of famous me<g ref="char:EOLhyphen"/>mory,
+and of the whole State and Kingdome in an exhor<g ref="char:EOLhyphen"/>tation
+publiſhed in that great plague, beginning with his
+reign, 1603. where are theſe words: The Lords Sabbath
+is not kept holy, but polluted, &amp;c. and therefore the
+cauſe is apparant, why the plague is broken in amongſt
+us? And was not the ſame exhortation afterwards re<g ref="char:EOLhyphen"/>publiſhed
+by our gracious King <hi>Charles</hi> (whom God
+long preſerve a religious and righteous Governor over
+us) in the firſt yeer of his reign, with the approbation of
+the whole Parliament, where the ſame is acknowledged
+of that other great plague, in the beginning of his Reigne
+1625. namely, that one principall and ſpeciall cauſe
+thereof, was <hi>the not keeping holy, but polluting the Lords
+day?</hi> And if this were a principall cauſe of thoſe great
+plagues then, why not of this which now we ſuffer? yea
+what Plague upon plagues may we not juſtly expect to
+break forth upon us in theſe dayes, wherein we have in<g ref="char:EOLhyphen"/>creaſed
+and ſurpaſſed our fathers ſins, and that in ſuch a
+height, as they reach up to heaven, to pull down flames
+and flakes of vengeance upon our heads. And ſo much
+the more, ſith upon the publiſhing of the ſaid book, ſo
+<pb n="27" facs="tcp:112533:18"/>
+manifold miſchiefs have attended and followed, as never
+any age ſince Chriſt, much leſſe ſuch a Chriſtian ſtate
+as we profeſſe to be, hath ſeen, or ever heard the like.
+For beſides the open violation of Gods holy command<g ref="char:EOLhyphen"/>ment,
+the 4th. Morall, acknowledged in our<note n="*" place="margin">Homily of the time and place of Praier. <hi>Part. 1. p.</hi> 124. 125. 126.</note> Homily to
+be the ground of our Chriſtian Sabbath day (as it is
+there, no leſſe then 8. ſeverall times diſtinctly ſtiled; as
+alſo in another<note n="*" place="margin">Hom. againſt Rebellion. par. 3. pag. 292.</note> Homily twice, which by the way makes
+me wonder at the audacious inſolence, &amp; arrogant igno<g ref="char:EOLhyphen"/>rance
+of ſome new Maſters in theſe dayes, and in parti<g ref="char:EOLhyphen"/>cular
+of D<hi rend="sup">r</hi>. <hi>Poc. k</hi> in his <hi>Sunday no Sabbath,</hi> who is not
+aſhamed to avouch with open mouth, that the name of
+Sabbath was never given to the Lords day, untill it was
+brought in by <hi>John Knox,</hi> and others of the puritan fa<g ref="char:EOLhyphen"/>ction
+in the yeer 1554. What ſaith he then to the Homi<g ref="char:EOLhyphen"/>lies
+of our Church, which were ſet forth in K. <hi>Edw.</hi> 6.
+his Reign, and ſo I am ſure before 1554. by three or foure
+yeers; now theſe (to omit innumerable teſtimonies more,
+both out of ancient Fathers, and the Prelates of this land;
+too large to be comprehended, in a Parentheſis, (being
+enow to furniſh a pretty Treatiſe) theſe our Homilies (I
+ſay) ſo frequently and clearly called the Lords day the
+Sabbath day, before <hi>John Knox</hi> called it ſo, 1554. And
+the ſame Homilies being ſet forth afreſh by Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi>
+1562. will D<hi rend="sup">r</hi>. <hi>P.</hi> dare to charge the learned and
+pious compilers of them, a pack of Puritans, or (as<note n="*" place="margin">Doctor <hi>Wh<gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> Bp. of Ely.</note> ſome
+other) <hi>Novell Sabbatarians?</hi> But this by the way) by
+which violation (I ſay) of the Sabbath or Lords day,
+God is intolerably diſhonoured, and his religion diſgra<g ref="char:EOLhyphen"/>ced
+through outragious libertiniſme: What an invention
+of Antichriſtian tyranny hath broken in at the opening
+of this great ſluice? What havock is made in our Church
+<pb n="28" facs="tcp:112533:19"/>
+by ſundry of the Hierarchy in ſuſpending godly Mini<g ref="char:EOLhyphen"/>ſters,
+depriving them of their liberty, livelihood, and
+Freeholds, againſt all Laws of God and man, ſo as they,
+their wives and children are expoſed to beggery and all
+miſery, and their flocks to be devoured of the Wolves,
+and to become a pray to the roaring Lion; and all this,
+becauſe they dare not offer violence to their conſcien<g ref="char:EOLhyphen"/>ces,
+in doing that, which ſhould diſhonour God, indanger
+their own, and their peoples ſouls, abaſe before God and
+man the authority and dignity to their Miniſtery, con<g ref="char:EOLhyphen"/>demne
+the innocent people of God, and call the wicked
+righteous, teach inferiours rebellion to their ſuperiours,
+and in a word haſten the pulling down of vengeance from
+heaven upon the Land? O ye heavens, ſtand amazed at
+this ſight! Tell it not in Gath, nor publiſh it in the ſtreets
+of Askelon, leſt the daughters of the Philiſtines rejoyce,
+leſt the daughters of the uncircumciſed triumph. what
+could the Pope have done more, then ſome of our Pre<g ref="char:EOLhyphen"/>lates
+have done in this kinde, for the darkning of the
+glory of Chriſts kingdome, and for the ſetting up of An<g ref="char:EOLhyphen"/>tichriſts
+throne again in this Land? But our Lord ſaith,
+<hi>Ye ſhall know them by their fruits.</hi> Beſides, what impuden<g ref="char:EOLhyphen"/>cie
+and impiety hath broken out from ſundry aierie and
+ambitious ſpirits, who have dared in their late publiſhed
+books upon books, to belch out their blaſphemies a<g ref="char:EOLhyphen"/>gainſt
+God, and the power, purity, and profeſſion of the
+Religion eſtabliſhed amongſt us for ſo many yeers. Nor
+onely is the floodgate of all prophaneneſſe and impiety
+broken up, in the violation of the fourth commandment,
+but of the fifth alſo, when as, by occaſion of the publiſh<g ref="char:EOLhyphen"/>ing
+of the ſaid book (which inhibits Magiſtrates and ſu<g ref="char:EOLhyphen"/>periors,
+to reſtrain or puniſh youth fortaking ſuch liberty
+<pb n="29" facs="tcp:112533:19"/>
+on the Lords day, as the book alloweth, and which all
+other books, writings, monuments of Fathers, Councels,
+Kings, Emperors, Divines ancient and modern, Prote<g ref="char:EOLhyphen"/>ſtants
+and Papiſts, have univerſally with one vote and
+voice cried down, till now but yeſterday a new genera<g ref="char:EOLhyphen"/>tion
+of <hi>Maleferiati</hi> hath riſen up, outdaring and defining
+the whole world and God himſelf) inferiour perſons
+exalt themſelves in high contempt againſt their Supe<g ref="char:EOLhyphen"/>riors,
+as the common vulgar againſt the Magiſtrate and
+Miniſter, ſervants againſt their maſters, children againſt
+their parents, and wanton wives againſt their husbands,
+which hath cauſed ſuch outcries and complaints of ma<g ref="char:EOLhyphen"/>ſters,
+for their ſervants unbridled and uncontrowled out<g ref="char:EOLhyphen"/>rage
+on the Lords day; which muſt alſo in-jure them
+with pride and preſumption of ſpirit the whole week af<g ref="char:EOLhyphen"/>ter,
+and ſo their whole life, while like vntamed colts
+they have thus learned to take the bit between their teeth,
+and ſo to run a gallop into all exceſſe of riot.</p>
+               <p>So as if the book be not all the ſooner called in, and
+authors of thoſe late books againſt the ſanctification of
+the Lords day condignly puniſhed; and a ſpeedy refor<g ref="char:EOLhyphen"/>mation
+hereof ſet on foot: how can we look for a ſtay of
+the plague untill the Land be conſumed? Now the Lord
+make us wiſe, to lay theſe things to heart, <hi>leſt he teare in
+peeces, and there be none to deliver.</hi> For as never any Chri<g ref="char:EOLhyphen"/>ſtian
+Church hath produced ſuch monſtrous impieties:
+ſo never any Church hath been the theatre of ſuch tragi<g ref="char:EOLhyphen"/>call
+examples of divine wrath, as our Land is like to be,
+if we ſpeedily repent not. Vnleſſe therefore we repent,
+we ſhall all likewiſe periſh, as theſe examples have done
+before us.</p>
+               <p>Now for theſe ſo many, ſo markable examples of
+<pb n="30" facs="tcp:112533:20"/>
+Gods judgements inflicted upon the violaters and pro<g ref="char:EOLhyphen"/>phaners
+of the Lords day, and that in ſo ſhort a time, even
+ſince the book for ſuch ſports was publiſhed, we may
+thus argue and conclude.</p>
+               <p>That, for which the Lord inflicteth and executeth ſo
+many notorious and ſevere judgements, muſt needs be a
+notorious and hainous ſin, and ſo a breach of his holy
+commandment.</p>
+               <p>But for the violation and prophanation of the Lords
+day by ſports and paſtimes, or by ſervile works, the Lord
+inflicteth and executeth many notorious and ſevere
+judgements, as of late we have ſeen. <hi>Erg.</hi> the violation
+and prophanation of the Lords day is a notorious and
+hainous ſin, and ſo a breach of Gods holy command<g ref="char:EOLhyphen"/>ment.</p>
+               <p>The major Propoſition is a Maxime in Divinity. God
+puniſheth no man, but for ſin: and ſin is a tranſgreſſion of
+Gods law: 1. <hi>Joh.</hi> 3. 4. For the Minor propoſition, it is ſo
+clear, as it cannot be denied, except men will be ſenſe<g ref="char:EOLhyphen"/>leſſe
+and blinde Atheiſts. But they that fear God, ſhall de<g ref="char:EOLhyphen"/>clare
+the work of God, for they ſhall wiſely conſider of
+his doing; as <hi>Pſal.</hi> 64. 9. Now if the violation or propha<g ref="char:EOLhyphen"/>nation
+of the Lords day be a ſin, and ſo a tranſgreſſion of
+Gods holy commandment: then of what holy com<g ref="char:EOLhyphen"/>mandment,
+but of the fourth. And if of the fourth, then
+the holy keeping of the Lords day for the Chriſtian Sab<g ref="char:EOLhyphen"/>bath,
+is grounded upon the fourth Commandment, and
+commanded in it, as God hath abundantly teſtified by
+his many remarkable judgements, even within theſe two
+yeers, as hath been ſhewed.</p>
+               <p>
+                  <hi>Ob.</hi> But here ſome may object: God may puniſh men
+for the breach of humane ordinances, which are out of the
+<pb n="31" facs="tcp:112533:20"/>
+expreſſe commandments of God. So in this inſtance,
+God may puniſh the violation or prophanation of the
+Lords day by ſuch ſports, or wakes, as being a breach of
+a humane ordinance, or Eccleſiaſticall inſtitution.</p>
+               <p>
+                  <hi>Anſw.</hi> I anſwer it is true, all humane ordinances, being
+not againſt Gods word, are to be obſerved for conſcience
+ſake of Gods commandment, commanding ſubjection
+to all ordinances of men for the Lords ſake.</p>
+               <p>Aud if it were a humane ordinance, to dedicate this
+day of holy reſt to God by a perpetuall vow and De<g ref="char:EOLhyphen"/>cree:
+then the greater is their ſin, that devoure that which
+is ſanctified, and after the vow make inquirie, how it may
+be violated. So as they are liable to the like judgements,
+for ſo doing, without repentance.</p>
+            </div>
+         </div>
+         <div type="epilogue">
+            <head>THE EPILOGVE.</head>
+            <p>
+               <hi>THus have I preſented you with a large Scene of late ſeve<g ref="char:EOLhyphen"/>rall
+examples of Gods judgements upon Sabbath-break<g ref="char:EOLhyphen"/>ers,
+and ſuch</hi>
+               <note n="a" place="margin">So the Sta<g ref="char:EOLhyphen"/>tute of 1. <hi>Ca<g ref="char:EOLhyphen"/>roli c.</hi> 1. ſtiles them.</note> diſorderly people, <hi>who have been ſo pre<g ref="char:EOLhyphen"/>ſumptuous
+as to prophane the Lords own ſacred day, againſt
+the monitions of Gods faithfull Ministers, with unneceſſarie
+labour, vain ſports and idle paſtimes. To which I might annex
+many ancient Precedents of like nature which I pretermit,
+onely one excepted, which is remarkable.</hi> In the yeer of our
+Lord 1583. in the famous Metropolis of this our Land,
+the City of London, two Citizens, the one leaving his
+wife, the other her husband, and committing adulterie
+together on the Lords day, it pleaſed God to ſtrike them
+dead with fire from heaven, whileſt they were in the
+very act of uncleanneſſe, their bodies being left
+dead in the place half burnt up, ſending out a moſt loath<g ref="char:EOLhyphen"/>ſome
+<pb n="32" facs="tcp:112533:21"/>
+ſavour, for a ſpectacle of Gods avenging Juſtice
+unto others, to teach them both to ſhun the ſin of adul<g ref="char:EOLhyphen"/>tery
+and of Sabbath-breaking too, <hi>and to take heed how
+they commit any fin or wickedneſſe at any time, and eſpecially
+on Gods ſacred day, or how they follow dauncing, may-games,
+Moriſdaunces, Ales, and ſuch laſcivious paſtimes,</hi>
+               <note n="b" place="margin">Vincenti<g ref="char:EOLhyphen"/>us Volnacenſis Spec. moral. li. 3. Ps. 9. Diſt. 6. <hi>Mr.</hi> North<g ref="char:EOLhyphen"/>brook, Stubs, Brant, Lovel, <hi>and others in their Treatiſes againſt daun<g ref="char:EOLhyphen"/>cing.</hi>
+               </note> which
+commonly end in whoredome, adultery, as being ſtrong
+allurements thereunto, <hi>this judgement was ſo famous and
+remarkable, that</hi> Laurentius Bayenlinke, <hi>a forrain Hiſtori<g ref="char:EOLhyphen"/>an,
+in his</hi> Opus Chronologicum orbis univerſi Antwerp.
+1611. p. 110. <hi>hath thought good to regiſter it to poſterity, if
+any deem thoſe judgements ſtrange, or that God ſhould iuſtice
+ſuch puniſhments on this ſin, which ſome now juſtifie, as a part
+of Chriſtian liberty, both in the Pulpit and in</hi>
+               <note n="c" place="margin">The late Treatiſe, Hi<g ref="char:EOLhyphen"/>ſtory and Diſ<g ref="char:EOLhyphen"/>courſe of the Sabbath, Sun<g ref="char:EOLhyphen"/>day No Sab<g ref="char:EOLhyphen"/>bath, Doctor <hi>Pri.</hi> and a ſo<g ref="char:EOLhyphen"/>veraigne Anti<g ref="char:EOLhyphen"/>dote againſt Sabbatarian Novelties.</note> printed
+works. <hi>I ſhall onely intreat ſuch to remember, that the whole</hi>
+Convocation houſe, all the Arcbbiſhops, Biſhops, Arch<g ref="char:EOLhyphen"/>deacons,
+and greateſt Clerks of England in their book
+intituled, <hi>The Inſtitution of a Chriſtian Man,</hi> ſubſcribed
+with all their names, and dedicated to King <hi>Hen. 8. an<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</hi>
+1537. <hi>and</hi> King <hi>Hen.</hi> 8. himſelf in his own book inſcri<g ref="char:EOLhyphen"/>bed
+A neceſſarie doctrine and erudition for any Chriſti<g ref="char:EOLhyphen"/>an
+man ſet forth by the Kings Majeſtie of England, with
+the adviſe and approbation of the Lords ſpirituall and
+temporall, and Nether houſe of Parliament, <hi>ann.</hi> 1543.
+<hi>and by</hi> the King himſelf, dedicated under his name and
+title to all his faithfull and loving Subjects, and publiſh<g ref="char:EOLhyphen"/>ed
+by vertue of the Statute, <hi>of 30. H. 8. c.</hi> 26. in the expo<g ref="char:EOLhyphen"/>ſition
+of the fourth Commandment, <hi>have in the very
+dawning of Reformation injoyned</hi> all Biſhops and Preach<g ref="char:EOLhyphen"/>ers
+diligently to inſtruct and teach the people, commit<g ref="char:EOLhyphen"/>ted
+to their ſpirituall charge (<hi>and I wiſh that ſome Biſhops
+would now do it</hi>) that againſt this commandment gene<g ref="char:EOLhyphen"/>rally
+<pb n="33" facs="tcp:112533:21"/>
+do offend all they, which having no lawfull impe<g ref="char:EOLhyphen"/>diment,
+do not give themſelves upon the holy day to
+hear the Word of God, to remember the benefits of
+God, to give thanks for the ſame, to pray, to exerciſe
+ſuch holy works both publikely in the Church, and pri<g ref="char:EOLhyphen"/>vately
+in their houſes, as be appointed for ſuch holy
+dayes: but (as commonly is uſed) paſſe the time either
+in idleneſſe, in gluttony, in riot, or other vain and idle
+paſtime, <hi>Do</hi>
+               <note n="*" place="margin">
+                  <hi>Ergo</hi> it is in force, and the prophaning of the Lords day a ſin againſt it.</note> 
+               <hi>break this Commandment.</hi> For ſurely ſuch
+keeping of holy day, is not according to the intent and
+meaning of this Commandment, (<hi>as ſome new</hi>
+               <note n="*" place="margin">As the Trea<g ref="char:EOLhyphen"/>tiſe, Hiſtory, Diſcourſe of the Sabbath.</note> Doctors
+<hi>now dogmatize</hi>) but after the uſage and cuſtome of the
+Jews, (<hi>though ſome late Rabbies would make the world be<g ref="char:EOLhyphen"/>leeve</hi>
+that the ſtrict ſanctification of the Lords day, and
+the reſtraining of vain ſports and paſtimes on it, is Jewiſh,
+when<note n="a" place="margin">Epiſt. 6. ad magnefianos.</note> 
+               <hi>Ignatius,</hi>
+               <note n="b" place="margin">Tract 3. in Iob. de 10. chordis. c. 3. In Pſ. 32. 91. De conſenſu E<g ref="char:EOLhyphen"/>vang. li. 2. c. 77</note> 
+               <hi>Auguſtine,</hi>
+               <note n="c" place="margin">In Iob. Evang li. 8. c. 5.</note> 
+               <hi>Cirillus Alexandri<g ref="char:EOLhyphen"/>nus,</hi>
+               <note n="d" place="margin">Homily de feſtis diebus.</note> 
+               <hi>Ephraim Syrus,</hi>
+               <note n="e" place="margin">Eccl. Hiſt. l. 7. c. 13.</note> 
+               <hi>Socrates, Scholaſticus,</hi>
+               <note n="f" place="margin">Codicis Theodoſit l. 15. tit. 5. lex. 5.</note> 
+               <hi>Theo<g ref="char:EOLhyphen"/>doſius</hi>
+the Emperour,<note n="g" place="margin">Enare in Pſ 91.</note> 
+               <hi>Beda, Vincentius Belvacenſis, and
+generally al Authors ſince,</hi> have branded dauncing, ſports,
+and recreations on the Lords day both as Jewiſh and hea<g ref="char:EOLhyphen"/>theniſh;
+and<note n="i" place="bottom">Edit. 5. Lon. 1624. Sect. 38. n. 1. p. 110. Se. 43. digr. 46. n. 6. p. 165. 186.</note> D<hi rend="sup">r</hi>. <hi>John White</hi> in his way to the true
+Church defended and publiſhed by his elder brother, D<hi rend="sup">r</hi>.
+<hi>Fr. White</hi> now Biſhop of Ely,<note n="k" place="bottom">In 4. preceptum.</note> Mr. <hi>Zanchie,</hi>
+               <note n="l" place="bottom">In Iohn Eu. c. 7. fol. 273.</note> 
+               <hi>Wolfg.
+Muſculus,</hi>
+               <note n="m" place="bottom">Propoſition for the Chriſtian Sabbath, p. 4.</note> Mr. <hi>John Sprint,</hi> as Popiſh and licentious;
+tending to the overthrow of piety, and deſolation of
+publike Government) and doth not pleaſe God, but doth
+much more offend him, <hi>and provoke his indignation and
+wrath towards us.</hi> For as<note n="n" place="bottom">In Iohan. tract. 3. in Pſ 32. &amp; 91. de 10. chordl<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> c 3.</note> St. <hi>Auguſtine</hi> ſaith of the
+Jews, they ſhould be better occupied, labouring in the
+<note n="h" place="bottom">Speculum morale li. 3. part. 9. c. 6.</note>
+               <pb n="34" facs="tcp:112533:22"/>
+fields, and to be at plough, then to be idle at home. And
+women ſhould better beſtow their time in ſpinning of
+wooll, then on the Sabbath day to looſe their time in
+leaping or dauncing, and other idle wantonneſſe. <hi>Now if
+the whole Clergy, King, State, and Parliament were ſo quick<g ref="char:EOLhyphen"/>ſighted
+as in thoſe times of darkneſſe to ſee a</hi> Lords day Sab<g ref="char:EOLhyphen"/>bath
+<hi>in the fourth Commandment, to be</hi> Wholly, onely
+and intirely dedicated to God and his true worſhip, <hi>as
+they there teach; and ſo pious as to beleeve, that the exerciſe
+of vain idle ſports, paſtimes, and dauncing on it,</hi> did much
+more offend God, then ploughing or ſpinning, and pro<g ref="char:EOLhyphen"/>voke
+his wrath and indignation towards us; <hi>no wonder if
+we in the clear ſunſhine of the Goſpel behold ſo many ſad ſpe<g ref="char:EOLhyphen"/>ctacles
+of his wrath, and indignation againſt the offenders of
+this commandment in this kinde, to teach theſe</hi> blinde Seers
+and ſeducing guides (as<note n="o" place="margin">In his Sermons.</note> Biſhop <hi>Latimer long ſince na<g ref="char:EOLhyphen"/>med
+them) that God is now as jealous for the ſanctification of
+his day, and as much offended with the prophaneneſſe of it,
+and infringers of the fourth Commandment, by unneceſſarie
+labours, travell, or idle paſtimes, as he had been in any age, if
+not rather much more, in regard of the great light of the Go<g ref="char:EOLhyphen"/>ſpel,
+that hath for theſe many yeers ſo clearly ſhined amongſt
+us, which if they will not yet beleeve, I ſhall at once cloſe up
+their mouthes with the reſolution of our Homilies ratified by</hi>
+               <note n="p" place="margin">13. <hi>Eliz. c.</hi> 12. which ra<g ref="char:EOLhyphen"/>tifies the 39. Articles.</note> Act of Parliament, <hi>and the</hi> 35. Article of our Church,
+<hi>to which theſe Novellers have ſubſcribed, and</hi> whoſe Patro<g ref="char:EOLhyphen"/>nage
+they pretend againſt all<note n="q" place="margin">The trea<g ref="char:EOLhyphen"/>tiſe and hiſto<g ref="char:EOLhyphen"/>ry of the Sab<g ref="char:EOLhyphen"/>bath.</note> novell Sabatarians: But
+alas (<hi>ſaith</hi>
+               <note n="r" place="margin">
+                  <hi>Part.</hi> 1. of the time and place of praier. <hi>p.</hi> 126.</note> 
+               <hi>the Homily</hi>) all theſe notwithſtanding (<hi>and
+I pray God I may not ſtill</hi> ſay notwithſtanding <hi>all theſe
+freſh examples</hi>) it is lamentable to ſee the wicked bold<g ref="char:EOLhyphen"/>neſſe
+of thoſe, that will be counted Gods people who
+paſſe nothing at all of keeping and hallowing the Sun<g ref="char:EOLhyphen"/>day.
+<pb n="35" facs="tcp:112533:22"/>
+And theſe people are of two ſorts; the one ſort, if
+they have buſineſſe to do, though there be no extreme
+need, they muſt not ſpare for the Sunday, they muſt ride
+journeys on the Sunday, they muſt drive and carry on
+the Sunday, they muſt come and ferry on the Sunday,
+they muſt buy and ſell on the Sunday, they muſt keep
+Markets and Fairs on the Sunday; finally they uſe all
+dayes alike, work dayes and holy dayes are all one. The
+other ſort is <hi>Worſe</hi> (ſo the Homily <hi>againſt theſe</hi>
+               <note n="*" place="margin">Treatiſe of the Sabbath day, p. 231.</note> new
+maſters, <hi>who make</hi> labour in mens callings on the Lords
+day <hi>Worſe</hi> and more unlawfull then dauncing and Pa<g ref="char:EOLhyphen"/>ſtimes,
+contrary to the judgement of<note n="ſ" place="margin">Tract. 3. in Ioh. In Pſ. 32. &amp; 91. de 10. chordis c. 3.</note> Saint <hi>Auguſtine,
+Gregory</hi> the great,<note n="t" place="margin">Apud Alex. Alenſis ſumm. Theologiae part. 4. q. 11. m. 2. Art. 11.</note> 
+               <hi>Alenſis,</hi> and all<note n="u" place="margin">Media villa Peraldus Ni<g ref="char:EOLhyphen"/>der Volaterra<g ref="char:EOLhyphen"/>nus, F. Martyr, Muſculus, Stuckius, A<g ref="char:EOLhyphen"/>retius, Hype<g ref="char:EOLhyphen"/>rius, Szegedi<g ref="char:EOLhyphen"/>ne, Angel. de Clavaſio. Dr Bound, Dr. Criffith, Williams Practiſe of Piety, Oſmund Lake, and infi<g ref="char:EOLhyphen"/>nite others.</note> Writers ſince, who
+<hi>una voce</hi> reſolve, that it is better and more lawfull to
+plough and ſpin on the Sabbath day, then to daunce:)
+for although they will not travell and labour on the
+Sunday, as they do on the work day, yet they will not
+reſt <hi>in holineſſe</hi> as God commandeth; but they reſt in un<g ref="char:EOLhyphen"/>godlineſſe
+and filthineſſe, prauncing in their pride, prank<g ref="char:EOLhyphen"/>ing
+and pricking, pointing and painting themſelves to
+be gorgeous and gay, they reſt in exceſſe and ſuperflui<g ref="char:EOLhyphen"/>tie
+in gluttony and drunkenneſſe (as they <hi>do at Wakes,
+Ales, and May-poles</hi>) like rats and ſwine, they reſt in braw<g ref="char:EOLhyphen"/>ling
+and rayling, in quarrelling and fighting, they reſt in
+wantonneſſe (<hi>and what elſe is dauncing, Moriſ dauncing,
+may gaming, &amp;c.</hi>) in toyiſh talking, in filthy fleſhlineſſe,
+ſo that it doth too evidently appear, that God is more
+diſhonoured, and the devill better ſerved on Sunday,
+then upon all the dayes of the week beſides. And
+I aſſure you, that the beaſts that are command<g ref="char:EOLhyphen"/>ed
+to reſt on the Sunday, honour God better then
+this kinde of people, for they offend not God, they
+<pb n="36" facs="tcp:112533:23"/>
+break not their holy dayes. Wherefore, O ye people of
+God, lay your hands upon your hearts, repent and amend
+this grievous and dangerous wickedneſſe, ſtand in awe of
+the commandment of God, gladly follow the example
+of God himſelf, be not diſobedient to the godly order of
+Chriſts Church uſed and kept from the Apoſtles times
+untill this day, fear the diſpleaſure and juſt plagues of
+Almighty God if ye be negligent, and forbear not la<g ref="char:EOLhyphen"/>bouring
+and travelling on the<note n="a" place="margin">See the Ho<g ref="char:EOLhyphen"/>mily <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. times ſtiles the Lords day, and the 3. Homily of re<g ref="char:EOLhyphen"/>bellion twice.</note> 
+               <hi>Sabbath day,</hi> and do not
+reſort together to celebrate and magnifie Gods bleſſed
+name in quiet holineſſe and godly reverence. <hi>I ſhall con<g ref="char:EOLhyphen"/>clude
+all with the words of the Councell of</hi> Paris under <hi>Lewis</hi>
+and <hi>Lotharius. Ann. 829. li. <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. c. 50. &amp; li. 3. c. 5. &amp;</hi> 19.
+<hi>Multa alia terribilia judicia. &amp;c.</hi> Many other terrible
+judgements have been, and hitherto are, whereby is de<g ref="char:EOLhyphen"/>clared
+how much God is offended with the diſhonour of
+this day. Wherefore the Imperiall highneſſe is ſpecially
+to be implored of the<note n="b" place="margin">Note.</note> Prieſts, that this power ordained
+of God for the honour and reverence of ſo great a day,
+may put a fear into all men, leſt none of what condition
+ſoever preſume on this holy and venerable day to uſe
+theſe and the like ſports, dauncings and leapings hereaf<g ref="char:EOLhyphen"/>ter,
+becauſe while they do theſe things, they both darken
+the glory of Chriſtianity, and give occaſion to the blaſ<g ref="char:EOLhyphen"/>phemers
+of Chriſts name the more to diſhonour him.</p>
+            <p>We require alſo, and earneſtly intreat, that in the ob<g ref="char:EOLhyphen"/>ſervation
+of the Lords day, as we have a long time be<g ref="char:EOLhyphen"/>ſeeched
+you, you uſe due care that unleſſe great neceſſity
+conſtrain you, free your ſelves on that day, as much as
+may be from worldly cares and ſollicitouſneſſe. And
+that which becometh the honour of ſo great a day, that
+both you your ſelves do it, and by your example do
+<pb n="37" facs="tcp:112533:23"/>
+teach and compell yours to do it.</p>
+            <p>We wholſomely admoniſh all faithfull people, that
+they give due honour and reverence to the Lords day,
+becauſe the diſhonour of this day doth both much ſwarve
+and abhor from Chriſtian religion, and doth without
+doubt procure the perill of ſouls to the violaters thereof;
+<hi>And with that of the</hi> Councell of Burges, <hi>an. 1582. Apud
+Bach<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>llum Decretae Eccleſiae Gall. l. 4. Tit. 7. c.</hi> 21. Although
+Lords dayes and holy dayes are inſtituted onely for this
+purpoſe, that faithfull Chriſtians abſtaining from exter<g ref="char:EOLhyphen"/>nall
+and gainfull works, might more freely and with
+greater piety give themſelves to divine worſhip, and to
+the meditation of the infinite benefits of Gods goodnes
+towards mankinde, and ſo being <hi>wholly</hi> taken up with the
+wholſome duties of religion, ſhould diligently beware as
+<hi>Ignatius</hi> admoniſheth the <hi>Philippians,</hi> that they ſhould
+not abuſe holy dayes with any diſgrace or injuries, yet
+notwithſtanding in our times, it prepoſterouſly and uſu<g ref="char:EOLhyphen"/>ally
+comes to paſſe, that both ſolemne and religious
+dayes are not onely ſpent in tranſacting, unlawfull and
+ſecular buſineſſe, but likewiſe in luxury, laſciviouſneſſe,
+prohibited ſports, and paſtimes, Revels, and the exerci<g ref="char:EOLhyphen"/>ſing
+of other wickedneſſes, whereupon it is not to be
+doubted, that for the greateſt part, ſo many calamities
+wherewith we were ſo long ſince confirm<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> juſtly in<g ref="char:EOLhyphen"/>flicted
+on us by God, who is incenſed againſt us by ſo
+great wickedneſſe. To appeaſe whoſe preſent anger, and
+likewiſe to avert his greater indignation hanging over
+our heads: we command all Pariſh Prieſts of our Pro<g ref="char:EOLhyphen"/>vince,
+that they frequently and ſeriouſly admoniſh the
+people, that on Lords dayes they not onely keep them<g ref="char:EOLhyphen"/>ſelves
+from all prohibited works, but likewiſe that they
+<pb n="38" facs="tcp:112533:24"/>
+be <hi>ex animo</hi> cordially and religiouſly, preſent at all ſacred
+myſteries of the Church, and at the preaching of Gods
+Word, and that they preterm it not the works of piety
+in relieving the poore, comforting the afflicted, and in
+doing other pious things, wherein Chriſtian profeſſion
+and charitie do moſt of all ſhine forth. And we exhort
+all Magiſtrates according to their and our duty, as far as
+poſſibly we may, that they would take care, that thoſe
+holy and ſolemne dayes ſhould be holily and piouſly ce<g ref="char:EOLhyphen"/>lebrated,
+this being principally in their power, and be<g ref="char:EOLhyphen"/>longing
+to their charge. Neither verily can any manner
+of Governing the Common-wealth, be better or
+more praiſe-worthie then that which gives
+the firſt place and care to divine
+worſhip and religion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi>
+Printed for <hi>John Wright junior,</hi> and for <hi>Tho. Bates,</hi> and
+are to be ſold at their ſhops in the Old Baylie.
+1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
